@@ -1,0 +1,15 @@
+pillow
+numpy
+tqdm
+ftfy
+regex
+scikit-learn
+gdown
+pandas
+openpyxl
+scikit-image
+transformers
+git+https://github.com/Mahmoodlab/CONCH.git
+git+https://github.com/jusiro/FLAIR.git
+git+https://github.com/jusiro/DLILP.git
+matplotlib
