@@ -1,5 +1,5 @@
 
-# Semi-Supervised Few-Shot Adaptation of Vision-Language Models
+# Semi-Supervised Few-Shot Adaptation of VLMs
 
 <img src="./documents/media/overview.svg" width = "450" alt="" align=center /> <br/>
 
