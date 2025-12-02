@@ -3,7 +3,7 @@
 
 <img src="./documents/media/overview.svg" width = "450" alt="" align=center /> <br/>
 
-The official implementation of [*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*]().<br/>
+[*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*]().<br/>
 [******](******), [******](******),
 [******](******), [******](******), ⋅ ******.
 <br/>
