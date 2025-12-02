@@ -1,7 +1,7 @@
 
 # Semi-Supervised Few-Shot Adaptation of VLMs
 
-<img src="./documents/media/overview.svg" width = "450" alt="" align=center /> <br/>
+<img src="./documents/media/overview.svg" width = "550" alt="" align=center /> <br/>
 
 [*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*]().<br/>
 [******](******), [******](******),
