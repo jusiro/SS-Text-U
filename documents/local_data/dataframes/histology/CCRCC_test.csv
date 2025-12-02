@@ -1,0 +1,2001 @@
+,index,Path,blood,cancer,normal tissue,stroma
+0,2109,tissue_classification/cancer/TCGA-B8-5546_104599_29794_cancer_2503.png,0,1,0,0
+1,3471,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 40.png,0,0,1,0
+2,3445,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 14.png,0,0,1,0
+3,3697,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 145.png,0,0,1,0
+4,1603,tissue_classification/cancer/TCGA-B0-5698_142563_27223_cancer_7518.png,0,1,0,0
+5,2211,tissue_classification/cancer/TCGA-B8-A54H_108965_29342_cancer_6961.png,0,1,0,0
+6,2731,tissue_classification/cancer/TCGA-DV-5566_61556_32832_cancer_10531.png,0,1,0,0
+7,2978,tissue_classification/normal/TCGA-T7-A92I_42448_78645_normal_6230.png,0,0,1,0
+8,373,tissue_classification/cancer/TCGA-6D-AA2E_36613_24846_cancer_10310.png,0,1,0,0
+9,433,tissue_classification/cancer/TCGA-A3-3331_14559_27966_cancer_10728.png,0,1,0,0
+10,276,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 161.png,0,1,0,0
+11,2021,tissue_classification/cancer/TCGA-B8-4154_21334_23573_cancer_12050.png,0,1,0,0
+12,3527,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 96.png,0,0,1,0
+13,477,tissue_classification/cancer/TCGA-A3-3370_17861_16450_cancer_10194.png,0,1,0,0
+14,1459,tissue_classification/cancer/TCGA-B0-5691_92607_47577_cancer_11578.png,0,1,0,0
+15,3027,tissue_classification/normal/TCGA-T7-A92I_43648_77745_normal_6279.png,0,0,1,0
+16,3804,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 252.png,0,0,1,0
+17,5305,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 138.png,0,0,0,1
+18,2496,tissue_classification/cancer/TCGA-CJ-4641_34881_32124_cancer_11718.png,0,1,0,0
+19,1554,tissue_classification/cancer/TCGA-B0-5698_141963_23923_cancer_7469.png,0,1,0,0
+20,4249,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 697.png,0,0,1,0
+21,191,tissue_classification/blood/TCGA-DV-5566_60056_32532_cancer_10474.png,1,0,0,0
+22,4363,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 813.png,0,0,1,0
+23,4752,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 54.png,0,0,0,1
+24,1396,tissue_classification/cancer/TCGA-B0-5691_91107_49977_cancer_11515.png,0,1,0,0
+25,336,tissue_classification/cancer/TCGA-6D-AA2E_35113_24246_cancer_10273.png,0,1,0,0
+26,400,tissue_classification/cancer/TCGA-A3-3308_22394_30554_cancer_11840.png,0,1,0,0
+27,98,tissue_classification/blood/TCGA-BP-5180_70008_41768_normal_5436.png,1,0,0,0
+28,2288,tissue_classification/cancer/TCGA-B8-A54K_169558_32204_cancer_5862.png,0,1,0,0
+29,767,tissue_classification/cancer/TCGA-B0-5399_24082_39592_cancer_10912.png,0,1,0,0
+30,5158,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 139.png,0,0,0,1
+31,4897,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 18.png,0,0,0,1
+32,2639,tissue_classification/cancer/TCGA-CZ-4861_13755_13126_cancer_10166.png,0,1,0,0
+33,2366,tissue_classification/cancer/TCGA-BP-4759_33932_58685_cancer_11064.png,0,1,0,0
+34,2948,tissue_classification/normal/TCGA-G6-A8L8_70437_12977_normal_4945.png,0,0,1,0
+35,4351,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 801.png,0,0,1,0
+36,1713,tissue_classification/cancer/TCGA-B0-5698_144363_26023_cancer_7628.png,0,1,0,0
+37,2172,tissue_classification/cancer/TCGA-B8-5546_106999_29494_cancer_2566.png,0,1,0,0
+38,2898,tissue_classification/normal/TCGA-EU-5907_10155_53997_normal_1834.png,0,0,1,0
+39,4087,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 535.png,0,0,1,0
+40,1796,tissue_classification/cancer/TCGA-B4-5843_27516_33172_cancer_10053.png,0,1,0,0
+41,2556,tissue_classification/cancer/TCGA-CJ-4641_36981_33324_cancer_11778.png,0,1,0,0
+42,5573,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 243.png,0,0,0,1
+43,5378,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 211.png,0,0,0,1
+44,4727,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 29.png,0,0,0,1
+45,5138,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 119.png,0,0,0,1
+46,891,tissue_classification/cancer/TCGA-B0-5399_97358_48074_cancer_10788.png,0,1,0,0
+47,1918,tissue_classification/cancer/TCGA-B8-4154_19534_24773_cancer_11940.png,0,1,0,0
+48,2987,tissue_classification/normal/TCGA-T7-A92I_42448_81345_normal_6239.png,0,0,1,0
+49,3032,tissue_classification/normal/TCGA-T7-A92I_43648_79245_normal_6284.png,0,0,1,0
+50,3195,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 37.png,0,0,1,0
+51,3389,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 51.png,0,0,1,0
+52,1315,tissue_classification/cancer/TCGA-B0-5691_89607_48177_cancer_11434.png,0,1,0,0
+53,4667,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 26.png,0,0,0,1
+54,5080,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 61.png,0,0,0,1
+55,2508,tissue_classification/cancer/TCGA-CJ-4641_35181_33324_cancer_11730.png,0,1,0,0
+56,1081,tissue_classification/cancer/TCGA-B0-5691_24828_21022_cancer_11201.png,0,1,0,0
+57,1324,tissue_classification/cancer/TCGA-B0-5691_89607_50877_cancer_11443.png,0,1,0,0
+58,3870,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 318.png,0,0,1,0
+59,4886,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 97.png,0,0,0,1
+60,5036,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 17.png,0,0,0,1
+61,1476,tissue_classification/cancer/TCGA-B0-5691_92907_48177_cancer_11595.png,0,1,0,0
+62,5000,tissue_classification/stroma/TCGA-B8-4621_117095_65470_stroma_2420.png,0,0,0,1
+63,2954,tissue_classification/normal/TCGA-T7-A92I_41848_79245_normal_6206.png,0,0,1,0
+64,5543,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 213.png,0,0,0,1
+65,4107,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 555.png,0,0,1,0
+66,3632,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 111.png,0,0,1,0
+67,3012,tissue_classification/normal/TCGA-T7-A92I_43048_81045_normal_6264.png,0,0,1,0
+68,3562,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 124.png,0,0,1,0
+69,3334,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 86.png,0,0,1,0
+70,5582,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 252.png,0,0,0,1
+71,4196,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 644.png,0,0,1,0
+72,5545,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 215.png,0,0,0,1
+73,1505,tissue_classification/cancer/TCGA-B0-5691_93507_47877_cancer_11624.png,0,1,0,0
+74,2677,tissue_classification/cancer/TCGA-DV-5566_31068_33558_cancer_10468.png,0,1,0,0
+75,4140,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 588.png,0,0,1,0
+76,1373,tissue_classification/cancer/TCGA-B0-5691_90807_47577_cancer_11492.png,0,1,0,0
+77,4487,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 159.png,0,0,1,0
+78,1388,tissue_classification/cancer/TCGA-B0-5691_91107_47577_cancer_11507.png,0,1,0,0
+79,45,tissue_classification/blood/TCGA-B0-4699_22300_63875_normal_3343.png,1,0,0,0
+80,2040,tissue_classification/cancer/TCGA-B8-5159_29845_10227_cancer_11012.png,0,1,0,0
+81,4397,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 847.png,0,0,1,0
+82,3754,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 202.png,0,0,1,0
+83,1644,tissue_classification/cancer/TCGA-B0-5698_143463_22423_cancer_7559.png,0,1,0,0
+84,4748,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 50.png,0,0,0,1
+85,4494,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 166.png,0,0,1,0
+86,5089,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 70.png,0,0,0,1
+87,1961,tissue_classification/cancer/TCGA-B8-4154_20434_22373_cancer_11989.png,0,1,0,0
+88,4428,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 100.png,0,0,1,0
+89,1945,tissue_classification/cancer/TCGA-B8-4154_20134_23273_cancer_11973.png,0,1,0,0
+90,2909,tissue_classification/normal/TCGA-EU-5907_10455_51897_normal_1845.png,0,0,1,0
+91,3114,tissue_classification/normal/TCGA-T7-A92I_46048_80445_normal_6388.png,0,0,1,0
+92,4278,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 727.png,0,0,1,0
+93,3480,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 49.png,0,0,1,0
+94,5139,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 120.png,0,0,0,1
+95,5526,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 196.png,0,0,0,1
+96,3004,tissue_classification/normal/TCGA-T7-A92I_43048_78645_normal_6256.png,0,0,1,0
+97,4715,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 17.png,0,0,0,1
+98,3887,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 335.png,0,0,1,0
+99,5595,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 265.png,0,0,0,1
+100,1276,tissue_classification/cancer/TCGA-B0-5691_88707_49977_cancer_11395.png,0,1,0,0
+101,4375,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 825.png,0,0,1,0
+102,230,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 114.png,0,1,0,0
+103,5002,tissue_classification/stroma/TCGA-BP-4759_33932_57785_cancer_11061.png,0,0,0,1
+104,4822,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 33.png,0,0,0,1
+105,5055,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 36.png,0,0,0,1
+106,1669,tissue_classification/cancer/TCGA-B0-5698_143763_24223_cancer_7584.png,0,1,0,0
+107,1304,tissue_classification/cancer/TCGA-B0-5691_89307_49377_cancer_11423.png,0,1,0,0
+108,501,tissue_classification/cancer/TCGA-AK-3430_10024_38782_cancer_12169.png,0,1,0,0
+109,5394,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 227.png,0,0,0,1
+110,4672,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 31.png,0,0,0,1
+111,2526,tissue_classification/cancer/TCGA-CJ-4641_35781_33924_cancer_11748.png,0,1,0,0
+112,4325,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 775.png,0,0,1,0
+113,3624,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 103.png,0,0,1,0
+114,1857,tissue_classification/cancer/TCGA-B8-4148_152914_30882_cancer_2314.png,0,1,0,0
+115,1406,tissue_classification/cancer/TCGA-B0-5691_91407_48477_cancer_11525.png,0,1,0,0
+116,818,tissue_classification/cancer/TCGA-B0-5399_25582_41092_cancer_10963.png,0,1,0,0
+117,3599,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 161.png,0,0,1,0
+118,5232,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 162.png,0,0,0,1
+119,265,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 149.png,0,1,0,0
+120,5325,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 158.png,0,0,0,1
+121,2390,tissue_classification/cancer/TCGA-BP-4759_34832_55385_cancer_11089.png,0,1,0,0
+122,3093,tissue_classification/normal/TCGA-T7-A92I_45448_81045_normal_6364.png,0,0,1,0
+123,2054,tissue_classification/cancer/TCGA-B8-5159_31045_10227_cancer_11028.png,0,1,0,0
+124,5160,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 141.png,0,0,0,1
+125,4817,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 28.png,0,0,0,1
+126,23,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_BloodTile 19.png,1,0,0,0
+127,2823,tissue_classification/normal/TCGA-CJ-4918_28956_34154_normal_2154.png,0,0,1,0
+128,4018,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 466.png,0,0,1,0
+129,4774,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 76.png,0,0,0,1
+130,2670,tissue_classification/cancer/TCGA-CZ-5456_89113_38928_cancer_11849.png,0,1,0,0
+131,2504,tissue_classification/cancer/TCGA-CJ-4641_35181_32124_cancer_11726.png,0,1,0,0
+132,2848,tissue_classification/normal/TCGA-CJ-4918_29556_31154_normal_2180.png,0,0,1,0
+133,2039,tissue_classification/cancer/TCGA-B8-5159_29545_11127_cancer_11011.png,0,1,0,0
+134,2649,tissue_classification/cancer/TCGA-CZ-5453_79164_34721_cancer_10340.png,0,1,0,0
+135,3434,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 96.png,0,0,1,0
+136,2053,tissue_classification/cancer/TCGA-B8-5159_30745_11127_cancer_11027.png,0,1,0,0
+137,306,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 123.png,0,1,0,0
+138,3496,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 65.png,0,0,1,0
+139,5196,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 126.png,0,0,0,1
+140,4717,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 19.png,0,0,0,1
+141,3488,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 57.png,0,0,1,0
+142,498,tissue_classification/cancer/TCGA-AK-3430_10024_37882_cancer_12166.png,0,1,0,0
+143,3727,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 175.png,0,0,1,0
+144,5437,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 107.png,0,0,0,1
+145,3775,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 223.png,0,0,1,0
+146,4052,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 500.png,0,0,1,0
+147,389,tissue_classification/cancer/TCGA-6D-AA2E_37213_25446_cancer_10326.png,0,1,0,0
+148,3822,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 270.png,0,0,1,0
+149,4674,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 33.png,0,0,0,1
+150,3419,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 81.png,0,0,1,0
+151,4953,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 74.png,0,0,0,1
+152,232,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 116.png,0,1,0,0
+153,2367,tissue_classification/cancer/TCGA-BP-4759_34232_55385_cancer_11065.png,0,1,0,0
+154,140,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 108.png,1,0,0,0
+155,829,tissue_classification/cancer/TCGA-B0-5399_25882_41392_cancer_10974.png,0,1,0,0
+156,4316,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 766.png,0,0,1,0
+157,3880,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 328.png,0,0,1,0
+158,5353,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 186.png,0,0,0,1
+159,541,tissue_classification/cancer/TCGA-AK-3430_11224_37582_cancer_12210.png,0,1,0,0
+160,2379,tissue_classification/cancer/TCGA-BP-4759_34532_55385_cancer_11077.png,0,1,0,0
+161,3373,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 35.png,0,0,1,0
+162,4337,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 787.png,0,0,1,0
+163,2232,tissue_classification/cancer/TCGA-B8-A54K_168358_30704_cancer_5805.png,0,1,0,0
+164,3730,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 178.png,0,0,1,0
+165,4070,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 518.png,0,0,1,0
+166,3123,tissue_classification/normal/TCGA-T7-A92I_46348_79545_normal_6398.png,0,0,1,0
+167,1899,tissue_classification/cancer/TCGA-B8-4154_19234_24173_cancer_11920.png,0,1,0,0
+168,3877,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 325.png,0,0,1,0
+169,4647,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 96.png,0,0,0,1
+170,4546,tissue_classification/stroma/TCGA-T7-A92I_62292_110933_other_2920.png,0,0,0,1
+171,5115,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 96.png,0,0,0,1
+172,5431,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 101.png,0,0,0,1
+173,4832,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 43.png,0,0,0,1
+174,775,tissue_classification/cancer/TCGA-B0-5399_24382_38992_cancer_10920.png,0,1,0,0
+175,820,tissue_classification/cancer/TCGA-B0-5399_25582_41692_cancer_10965.png,0,1,0,0
+176,3683,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 131.png,0,0,1,0
+177,4365,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 815.png,0,0,1,0
+178,2555,tissue_classification/cancer/TCGA-CJ-4641_36981_33024_cancer_11777.png,0,1,0,0
+179,374,tissue_classification/cancer/TCGA-6D-AA2E_36613_25146_cancer_10311.png,0,1,0,0
+180,3914,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 362.png,0,0,1,0
+181,3920,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 368.png,0,0,1,0
+182,2853,tissue_classification/normal/TCGA-CJ-4918_29556_32654_normal_2185.png,0,0,1,0
+183,5395,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 228.png,0,0,0,1
+184,4457,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 129.png,0,0,1,0
+185,3477,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 46.png,0,0,1,0
+186,4979,tissue_classification/stroma/TCGA-A3-A8OV_49544_35388_cancer_10464.png,0,0,0,1
+187,2606,tissue_classification/cancer/TCGA-CJ-4913_14509_33371_cancer_11852.png,0,1,0,0
+188,3130,tissue_classification/normal/TCGA-T7-A92I_46648_77745_normal_6405.png,0,0,1,0
+189,4246,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 694.png,0,0,1,0
+190,3461,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 30.png,0,0,1,0
+191,1001,tissue_classification/cancer/TCGA-B0-5399_99158_46874_cancer_10898.png,0,1,0,0
+192,2100,tissue_classification/cancer/TCGA-B8-5546_104299_29494_cancer_2494.png,0,1,0,0
+193,5096,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 77.png,0,0,0,1
+194,630,tissue_classification/cancer/TCGA-B0-4713_37066_22333_cancer_10562.png,0,1,0,0
+195,1950,tissue_classification/cancer/TCGA-B8-4154_20134_24773_cancer_11978.png,0,1,0,0
+196,2872,tissue_classification/normal/TCGA-CJ-6032_78200_27695_normal_2461.png,0,0,1,0
+197,1230,tissue_classification/cancer/TCGA-B0-5691_28128_19522_cancer_11350.png,0,1,0,0
+198,788,tissue_classification/cancer/TCGA-B0-5399_24682_40192_cancer_10933.png,0,1,0,0
+199,4002,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 450.png,0,0,1,0
+200,3505,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 74.png,0,0,1,0
+201,2161,tissue_classification/cancer/TCGA-B8-5546_106699_28594_cancer_2555.png,0,1,0,0
+202,2573,tissue_classification/cancer/TCGA-CJ-4641_37581_33624_cancer_11795.png,0,1,0,0
+203,1243,tissue_classification/cancer/TCGA-B0-5691_28428_19522_cancer_11363.png,0,1,0,0
+204,4523,tissue_classification/stroma/TCGA-T7-A92I_60792_110333_other_2873.png,0,0,0,1
+205,5392,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 225.png,0,0,0,1
+206,4382,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 832.png,0,0,1,0
+207,4632,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 81.png,0,0,0,1
+208,3644,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 123.png,0,0,1,0
+209,2579,tissue_classification/cancer/TCGA-CJ-4641_37881_33024_cancer_11801.png,0,1,0,0
+210,1568,tissue_classification/cancer/TCGA-B0-5698_142263_22423_cancer_7483.png,0,1,0,0
+211,3161,tissue_classification/normal/TCGA-T7-A92I_47248_79245_normal_6436.png,0,0,1,0
+212,3633,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 112.png,0,0,1,0
+213,782,tissue_classification/cancer/TCGA-B0-5399_24382_41092_cancer_10927.png,0,1,0,0
+214,5438,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 108.png,0,0,0,1
+215,5604,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 274.png,0,0,0,1
+216,1455,tissue_classification/cancer/TCGA-B0-5691_92307_50577_cancer_11574.png,0,1,0,0
+217,5211,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 141.png,0,0,0,1
+218,910,tissue_classification/cancer/TCGA-B0-5399_97658_48074_cancer_10807.png,0,1,0,0
+219,3379,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 41.png,0,0,1,0
+220,4945,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 66.png,0,0,0,1
+221,4512,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 184.png,0,0,1,0
+222,4965,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 86.png,0,0,0,1
+223,5019,tissue_classification/stroma/TCGA-BP-4995_133664_13623_stroma_1442.png,0,0,0,1
+224,4848,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 59.png,0,0,0,1
+225,2171,tissue_classification/cancer/TCGA-B8-5546_106999_29194_cancer_2565.png,0,1,0,0
+226,1114,tissue_classification/cancer/TCGA-B0-5691_25728_18322_cancer_11234.png,0,1,0,0
+227,552,tissue_classification/cancer/TCGA-AK-3430_11224_40882_cancer_12221.png,0,1,0,0
+228,4591,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 40.png,0,0,0,1
+229,1028,tissue_classification/cancer/TCGA-B0-5691_23928_17722_cancer_11148.png,0,1,0,0
+230,4233,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 681.png,0,0,1,0
+231,4381,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 831.png,0,0,1,0
+232,4624,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 73.png,0,0,0,1
+233,3911,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 359.png,0,0,1,0
+234,3995,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 443.png,0,0,1,0
+235,950,tissue_classification/cancer/TCGA-B0-5399_98258_48674_cancer_10847.png,0,1,0,0
+236,4834,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 45.png,0,0,0,1
+237,4610,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 59.png,0,0,0,1
+238,1309,tissue_classification/cancer/TCGA-B0-5691_89307_50877_cancer_11428.png,0,1,0,0
+239,179,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 151.png,1,0,0,0
+240,4508,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 180.png,0,0,1,0
+241,5398,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 231.png,0,0,0,1
+242,114,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 110.png,1,0,0,0
+243,3082,tissue_classification/normal/TCGA-T7-A92I_45148_81345_normal_6352.png,0,0,1,0
+244,1353,tissue_classification/cancer/TCGA-B0-5691_90207_50577_cancer_11472.png,0,1,0,0
+245,2395,tissue_classification/cancer/TCGA-BP-4759_34832_56885_cancer_11094.png,0,1,0,0
+246,5432,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 102.png,0,0,0,1
+247,2407,tissue_classification/cancer/TCGA-BP-4759_35432_56285_cancer_11112.png,0,1,0,0
+248,5369,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 202.png,0,0,0,1
+249,3510,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 79.png,0,0,1,0
+250,284,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 101.png,0,1,0,0
+251,2202,tissue_classification/cancer/TCGA-B8-5546_108199_29794_cancer_2596.png,0,1,0,0
+252,1190,tissue_classification/cancer/TCGA-B0-5691_27228_20122_cancer_11310.png,0,1,0,0
+253,378,tissue_classification/cancer/TCGA-6D-AA2E_36913_24246_cancer_10315.png,0,1,0,0
+254,733,tissue_classification/cancer/TCGA-B0-4713_38566_25033_cancer_10666.png,0,1,0,0
+255,4063,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 511.png,0,0,1,0
+256,2869,tissue_classification/normal/TCGA-CJ-6032_77900_27695_normal_2456.png,0,0,1,0
+257,4605,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 54.png,0,0,0,1
+258,181,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 153.png,1,0,0,0
+259,2450,tissue_classification/cancer/TCGA-CJ-4641_33081_32724_cancer_11672.png,0,1,0,0
+260,1995,tissue_classification/cancer/TCGA-B8-4154_20734_27173_cancer_12024.png,0,1,0,0
+261,841,tissue_classification/cancer/TCGA-B0-5399_26482_38992_cancer_10986.png,0,1,0,0
+262,2603,tissue_classification/cancer/TCGA-CJ-4912_65128_54510_cancer_12237.png,0,1,0,0
+263,940,tissue_classification/cancer/TCGA-B0-5399_98258_45674_cancer_10837.png,0,1,0,0
+264,710,tissue_classification/cancer/TCGA-B0-4713_38266_23833_cancer_10643.png,0,1,0,0
+265,2584,tissue_classification/cancer/TCGA-CJ-4641_38181_32424_cancer_11807.png,0,1,0,0
+266,5270,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 103.png,0,0,0,1
+267,3037,tissue_classification/normal/TCGA-T7-A92I_43648_80745_normal_6289.png,0,0,1,0
+268,4001,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 449.png,0,0,1,0
+269,1708,tissue_classification/cancer/TCGA-B0-5698_144363_24523_cancer_7623.png,0,1,0,0
+270,1266,tissue_classification/cancer/TCGA-B0-5691_88707_46977_cancer_11385.png,0,1,0,0
+271,4077,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 525.png,0,0,1,0
+272,2374,tissue_classification/cancer/TCGA-BP-4759_34232_57485_cancer_11072.png,0,1,0,0
+273,1741,tissue_classification/cancer/TCGA-B2-5639_123595_34557_cancer_9004.png,0,1,0,0
+274,1903,tissue_classification/cancer/TCGA-B8-4154_19234_25373_cancer_11924.png,0,1,0,0
+275,3193,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 35.png,0,0,1,0
+276,1440,tissue_classification/cancer/TCGA-B0-5691_92007_49977_cancer_11559.png,0,1,0,0
+277,4491,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 163.png,0,0,1,0
+278,824,tissue_classification/cancer/TCGA-B0-5399_25882_39892_cancer_10969.png,0,1,0,0
+279,279,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 164.png,0,1,0,0
+280,1403,tissue_classification/cancer/TCGA-B0-5691_91407_47577_cancer_11522.png,0,1,0,0
+281,3525,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 94.png,0,0,1,0
+282,5352,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 185.png,0,0,0,1
+283,737,tissue_classification/cancer/TCGA-B0-4713_38566_26233_cancer_10670.png,0,1,0,0
+284,2942,tissue_classification/normal/TCGA-EU-5907_10755_56397_normal_1878.png,0,0,1,0
+285,4608,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 57.png,0,0,0,1
+286,3219,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 61.png,0,0,1,0
+287,689,tissue_classification/cancer/TCGA-B0-4713_37966_22933_cancer_10621.png,0,1,0,0
+288,2260,tissue_classification/cancer/TCGA-B8-A54K_168958_31604_cancer_5834.png,0,1,0,0
+289,1064,tissue_classification/cancer/TCGA-B0-5691_24528_20122_cancer_11184.png,0,1,0,0
+290,2770,tissue_classification/cancer/TCGA-EU-5904_51748_69176_cancer_10417.png,0,1,0,0
+291,928,tissue_classification/cancer/TCGA-B0-5399_97958_47774_cancer_10825.png,0,1,0,0
+292,4441,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 113.png,0,0,1,0
+293,5291,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 124.png,0,0,0,1
+294,1711,tissue_classification/cancer/TCGA-B0-5698_144363_25423_cancer_7626.png,0,1,0,0
+295,2664,tissue_classification/cancer/TCGA-CZ-5453_81264_34421_cancer_10360.png,0,1,0,0
+296,4687,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 46.png,0,0,0,1
+297,1835,tissue_classification/cancer/TCGA-B4-5843_28416_31672_cancer_10092.png,0,1,0,0
+298,4150,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 598.png,0,0,1,0
+299,2851,tissue_classification/normal/TCGA-CJ-4918_29556_32054_normal_2183.png,0,0,1,0
+300,4518,tissue_classification/stroma/TCGA-T7-A92I_60192_111533_other_2859.png,0,0,0,1
+301,1614,tissue_classification/cancer/TCGA-B0-5698_142863_24823_cancer_7529.png,0,1,0,0
+302,2993,tissue_classification/normal/TCGA-T7-A92I_42748_79245_normal_6245.png,0,0,1,0
+303,3391,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 53.png,0,0,1,0
+304,3720,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 168.png,0,0,1,0
+305,2826,tissue_classification/normal/TCGA-CJ-4918_28956_35654_normal_2157.png,0,0,1,0
+306,3737,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 185.png,0,0,1,0
+307,135,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 103.png,1,0,0,0
+308,1039,tissue_classification/cancer/TCGA-B0-5691_23928_21022_cancer_11159.png,0,1,0,0
+309,3400,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 62.png,0,0,1,0
+310,3909,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 357.png,0,0,1,0
+311,3259,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 11.png,0,0,1,0
+312,4099,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 547.png,0,0,1,0
+313,3603,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 165.png,0,0,1,0
+314,1681,tissue_classification/cancer/TCGA-B0-5698_144063_22123_cancer_7596.png,0,1,0,0
+315,4098,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 546.png,0,0,1,0
+316,3892,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 340.png,0,0,1,0
+317,3991,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 439.png,0,0,1,0
+318,3120,tissue_classification/normal/TCGA-T7-A92I_46348_78645_normal_6395.png,0,0,1,0
+319,4721,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 23.png,0,0,0,1
+320,593,tissue_classification/cancer/TCGA-AK-3450_43036_22727_cancer_10242.png,0,1,0,0
+321,1469,tissue_classification/cancer/TCGA-B0-5691_92607_50577_cancer_11588.png,0,1,0,0
+322,938,tissue_classification/cancer/TCGA-B0-5399_98258_45074_cancer_10835.png,0,1,0,0
+323,4510,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 182.png,0,0,1,0
+324,151,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 121.png,1,0,0,0
+325,0,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 86.png,1,0,0,0
+326,3107,tissue_classification/normal/TCGA-T7-A92I_46048_78045_normal_6380.png,0,0,1,0
+327,5417,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 250.png,0,0,0,1
+328,5223,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 153.png,0,0,0,1
+329,3970,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 418.png,0,0,1,0
+330,1596,tissue_classification/cancer/TCGA-B0-5698_142563_25123_cancer_7511.png,0,1,0,0
+331,2963,tissue_classification/normal/TCGA-T7-A92I_42148_78045_normal_6215.png,0,0,1,0
+332,4554,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 3.png,0,0,0,1
+333,4025,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 473.png,0,0,1,0
+334,364,tissue_classification/cancer/TCGA-6D-AA2E_36313_24246_cancer_10301.png,0,1,0,0
+335,4017,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 465.png,0,0,1,0
+336,3085,tissue_classification/normal/TCGA-T7-A92I_45448_78645_normal_6356.png,0,0,1,0
+337,4020,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 468.png,0,0,1,0
+338,4083,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 531.png,0,0,1,0
+339,1370,tissue_classification/cancer/TCGA-B0-5691_90807_46677_cancer_11489.png,0,1,0,0
+340,5321,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 154.png,0,0,0,1
+341,2178,tissue_classification/cancer/TCGA-B8-5546_107299_28894_cancer_2572.png,0,1,0,0
+342,3779,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 227.png,0,0,1,0
+343,1634,tissue_classification/cancer/TCGA-B0-5698_143163_25123_cancer_7549.png,0,1,0,0
+344,5246,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 176.png,0,0,0,1
+345,681,tissue_classification/cancer/TCGA-B0-4713_37666_26233_cancer_10613.png,0,1,0,0
+346,2214,tissue_classification/cancer/TCGA-B8-A54K_168058_29204_cancer_5787.png,0,1,0,0
+347,3350,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 12.png,0,0,1,0
+348,1465,tissue_classification/cancer/TCGA-B0-5691_92607_49377_cancer_11584.png,0,1,0,0
+349,4050,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 498.png,0,0,1,0
+350,2141,tissue_classification/cancer/TCGA-B8-5546_105799_29794_cancer_2535.png,0,1,0,0
+351,5187,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 117.png,0,0,0,1
+352,1016,tissue_classification/cancer/TCGA-B0-5691_23628_18322_cancer_11136.png,0,1,0,0
+353,1048,tissue_classification/cancer/TCGA-B0-5691_24228_19522_cancer_11168.png,0,1,0,0
+354,4930,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 51.png,0,0,0,1
+355,5466,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 136.png,0,0,0,1
+356,5031,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 12.png,0,0,0,1
+357,5430,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 100.png,0,0,0,1
+358,5070,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 51.png,0,0,0,1
+359,4914,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 35.png,0,0,0,1
+360,3543,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 105.png,0,0,1,0
+361,567,tissue_classification/cancer/TCGA-AK-3450_41236_21827_cancer_10213.png,0,1,0,0
+362,585,tissue_classification/cancer/TCGA-AK-3450_42736_21827_cancer_10234.png,0,1,0,0
+363,4653,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 12.png,0,0,0,1
+364,5010,tissue_classification/stroma/TCGA-BP-4759_35732_55385_cancer_11114.png,0,0,0,1
+365,4526,tissue_classification/stroma/TCGA-T7-A92I_60792_111233_other_2876.png,0,0,0,1
+366,4033,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 481.png,0,0,1,0
+367,2980,tissue_classification/normal/TCGA-T7-A92I_42448_79245_normal_6232.png,0,0,1,0
+368,5472,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 142.png,0,0,0,1
+369,846,tissue_classification/cancer/TCGA-B0-5399_26482_40492_cancer_10991.png,0,1,0,0
+370,5239,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 169.png,0,0,0,1
+371,3078,tissue_classification/normal/TCGA-T7-A92I_45148_80145_normal_6348.png,0,0,1,0
+372,170,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 142.png,1,0,0,0
+373,3553,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 115.png,0,0,1,0
+374,2419,tissue_classification/cancer/TCGA-BP-4974_71160_33087_cancer_10367.png,0,1,0,0
+375,4788,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 90.png,0,0,0,1
+376,5205,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 135.png,0,0,0,1
+377,1501,tissue_classification/cancer/TCGA-B0-5691_93507_46677_cancer_11620.png,0,1,0,0
+378,606,tissue_classification/cancer/TCGA-B0-4706_20777_14154_cancer_10462.png,0,1,0,0
+379,5375,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 208.png,0,0,0,1
+380,5044,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 25.png,0,0,0,1
+381,5520,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 190.png,0,0,0,1
+382,3075,tissue_classification/normal/TCGA-T7-A92I_45148_79245_normal_6345.png,0,0,1,0
+383,3214,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 56.png,0,0,1,0
+384,1376,tissue_classification/cancer/TCGA-B0-5691_90807_48477_cancer_11495.png,0,1,0,0
+385,4609,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 58.png,0,0,0,1
+386,3286,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 38.png,0,0,1,0
+387,1839,tissue_classification/cancer/TCGA-B4-5843_28416_32872_cancer_10096.png,0,1,0,0
+388,266,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 150.png,0,1,0,0
+389,5235,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 165.png,0,0,0,1
+390,1089,tissue_classification/cancer/TCGA-B0-5691_25128_19222_cancer_11209.png,0,1,0,0
+391,728,tissue_classification/cancer/TCGA-B0-4713_38566_23533_cancer_10661.png,0,1,0,0
+392,2156,tissue_classification/cancer/TCGA-B8-5546_106399_29494_cancer_2550.png,0,1,0,0
+393,3151,tissue_classification/normal/TCGA-T7-A92I_46948_80145_normal_6426.png,0,0,1,0
+394,480,tissue_classification/cancer/TCGA-A3-3370_17861_17350_cancer_10197.png,0,1,0,0
+395,4683,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 42.png,0,0,0,1
+396,4902,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 23.png,0,0,0,1
+397,4563,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 12.png,0,0,0,1
+398,2711,tissue_classification/cancer/TCGA-DV-5566_60956_34332_cancer_10510.png,0,1,0,0
+399,95,tissue_classification/blood/TCGA-BP-4981_67004_11505_cancer_8899.png,1,0,0,0
+400,476,tissue_classification/cancer/TCGA-A3-3370_17861_16150_cancer_10193.png,0,1,0,0
+401,1616,tissue_classification/cancer/TCGA-B0-5698_142863_25423_cancer_7531.png,0,1,0,0
+402,854,tissue_classification/cancer/TCGA-B0-5399_26782_39892_cancer_10999.png,0,1,0,0
+403,5009,tissue_classification/stroma/TCGA-BP-4759_35432_55985_cancer_11111.png,0,0,0,1
+404,393,tissue_classification/cancer/TCGA-6D-AA2E_37513_24546_cancer_10330.png,0,1,0,0
+405,3934,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 382.png,0,0,1,0
+406,4488,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 160.png,0,0,1,0
+407,27,tissue_classification/blood/TCGA-A3-3324_12610_25025_cancer_9800.png,1,0,0,0
+408,3354,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 16.png,0,0,1,0
+409,454,tissue_classification/cancer/TCGA-A3-3331_22607_30478_cancer_10749.png,0,1,0,0
+410,2280,tissue_classification/cancer/TCGA-B8-A54K_169558_29804_cancer_5854.png,0,1,0,0
+411,4368,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 818.png,0,0,1,0
+412,1802,tissue_classification/cancer/TCGA-B4-5843_27816_30472_cancer_10059.png,0,1,0,0
+413,1824,tissue_classification/cancer/TCGA-B4-5843_28116_32872_cancer_10081.png,0,1,0,0
+414,5093,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 74.png,0,0,0,1
+415,2222,tissue_classification/cancer/TCGA-B8-A54K_168058_31604_cancer_5795.png,0,1,0,0
+416,5004,tissue_classification/stroma/TCGA-BP-4759_34832_57785_cancer_11097.png,0,0,0,1
+417,3249,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 91.png,0,0,1,0
+418,2463,tissue_classification/cancer/TCGA-CJ-4641_33681_31824_cancer_11685.png,0,1,0,0
+419,3748,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 196.png,0,0,1,0
+420,5433,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 103.png,0,0,0,1
+421,3611,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 173.png,0,0,1,0
+422,4464,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 136.png,0,0,1,0
+423,2745,tissue_classification/cancer/TCGA-DV-A4W0_54090_19197_cancer_11832.png,0,1,0,0
+424,2490,tissue_classification/cancer/TCGA-CJ-4641_34581_32724_cancer_11712.png,0,1,0,0
+425,1770,tissue_classification/cancer/TCGA-B4-5843_27216_29872_cancer_10027.png,0,1,0,0
+426,5195,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 125.png,0,0,0,1
+427,354,tissue_classification/cancer/TCGA-6D-AA2E_35713_25446_cancer_10291.png,0,1,0,0
+428,929,tissue_classification/cancer/TCGA-B0-5399_97958_48074_cancer_10826.png,0,1,0,0
+429,1095,tissue_classification/cancer/TCGA-B0-5691_25128_21022_cancer_11215.png,0,1,0,0
+430,5040,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 21.png,0,0,0,1
+431,3643,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 122.png,0,0,1,0
+432,4853,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 64.png,0,0,0,1
+433,3658,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 106.png,0,0,1,0
+434,2520,tissue_classification/cancer/TCGA-CJ-4641_35781_32124_cancer_11742.png,0,1,0,0
+435,5537,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 207.png,0,0,0,1
+436,1619,tissue_classification/cancer/TCGA-B0-5698_142863_26323_cancer_7534.png,0,1,0,0
+437,3902,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 350.png,0,0,1,0
+438,4873,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 84.png,0,0,0,1
+439,4867,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 78.png,0,0,0,1
+440,3125,tissue_classification/normal/TCGA-T7-A92I_46348_80145_normal_6400.png,0,0,1,0
+441,2482,tissue_classification/cancer/TCGA-CJ-4641_34281_32724_cancer_11704.png,0,1,0,0
+442,1896,tissue_classification/cancer/TCGA-B8-4154_19234_23273_cancer_11917.png,0,1,0,0
+443,5575,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 245.png,0,0,0,1
+444,971,tissue_classification/cancer/TCGA-B0-5399_98558_49274_cancer_10868.png,0,1,0,0
+445,3382,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 44.png,0,0,1,0
+446,2706,tissue_classification/cancer/TCGA-DV-5566_60956_32832_cancer_10505.png,0,1,0,0
+447,4542,tissue_classification/stroma/TCGA-T7-A92I_61992_110933_other_2911.png,0,0,0,1
+448,796,tissue_classification/cancer/TCGA-B0-5399_24982_39892_cancer_10941.png,0,1,0,0
+449,5258,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 188.png,0,0,0,1
+450,2783,tissue_classification/cancer/TCGA-EU-5904_96528_56423_cancer_10392.png,0,1,0,0
+451,1504,tissue_classification/cancer/TCGA-B0-5691_93507_47577_cancer_11623.png,0,1,0,0
+452,1443,tissue_classification/cancer/TCGA-B0-5691_92007_50877_cancer_11562.png,0,1,0,0
+453,2193,tissue_classification/cancer/TCGA-B8-5546_107899_28594_cancer_2587.png,0,1,0,0
+454,3333,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 85.png,0,0,1,0
+455,5172,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 102.png,0,0,0,1
+456,748,tissue_classification/cancer/TCGA-B0-4713_38866_23833_cancer_10681.png,0,1,0,0
+457,1170,tissue_classification/cancer/TCGA-B0-5691_26928_18322_cancer_11290.png,0,1,0,0
+458,2413,tissue_classification/cancer/TCGA-BP-4759_36332_55685_cancer_11123.png,0,1,0,0
+459,793,tissue_classification/cancer/TCGA-B0-5399_24982_38992_cancer_10938.png,0,1,0,0
+460,2488,tissue_classification/cancer/TCGA-CJ-4641_34581_32124_cancer_11710.png,0,1,0,0
+461,3444,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 13.png,0,0,1,0
+462,5144,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 125.png,0,0,0,1
+463,428,tissue_classification/cancer/TCGA-A3-3331_14259_28266_cancer_10723.png,0,1,0,0
+464,4419,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 869.png,0,0,1,0
+465,2509,tissue_classification/cancer/TCGA-CJ-4641_35181_33624_cancer_11731.png,0,1,0,0
+466,5190,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 120.png,0,0,0,1
+467,2567,tissue_classification/cancer/TCGA-CJ-4641_37581_31824_cancer_11789.png,0,1,0,0
+468,2613,tissue_classification/cancer/TCGA-CZ-4857_36768_25516_cancer_11864.png,0,1,0,0
+469,597,tissue_classification/cancer/TCGA-B0-4706_19877_13854_cancer_10452.png,0,1,0,0
+470,4171,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 619.png,0,0,1,0
+471,763,tissue_classification/cancer/TCGA-B0-5119_63934_41181_cancer_11665.png,0,1,0,0
+472,3782,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 230.png,0,0,1,0
+473,3871,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 319.png,0,0,1,0
+474,703,tissue_classification/cancer/TCGA-B0-4713_38266_21733_cancer_10636.png,0,1,0,0
+475,1925,tissue_classification/cancer/TCGA-B8-4154_19534_26873_cancer_11947.png,0,1,0,0
+476,2293,tissue_classification/cancer/TCGA-B8-A54K_169858_29804_cancer_5867.png,0,1,0,0
+477,3601,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 163.png,0,0,1,0
+478,1414,tissue_classification/cancer/TCGA-B0-5691_91407_50877_cancer_11533.png,0,1,0,0
+479,3690,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 138.png,0,0,1,0
+480,1093,tissue_classification/cancer/TCGA-B0-5691_25128_20422_cancer_11213.png,0,1,0,0
+481,3537,tissue_classification/normal/TCGA-CJ-4887_21385_40705_cancer_10692.png,0,0,1,0
+482,3944,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 392.png,0,0,1,0
+483,264,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 148.png,0,1,0,0
+484,3735,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 183.png,0,0,1,0
+485,1267,tissue_classification/cancer/TCGA-B0-5691_88707_47277_cancer_11386.png,0,1,0,0
+486,3294,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 46.png,0,0,1,0
+487,1271,tissue_classification/cancer/TCGA-B0-5691_88707_48477_cancer_11390.png,0,1,0,0
+488,4166,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 614.png,0,0,1,0
+489,5275,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 108.png,0,0,0,1
+490,864,tissue_classification/cancer/TCGA-B0-5399_97058_45674_cancer_10761.png,0,1,0,0
+491,184,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 156.png,1,0,0,0
+492,5079,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 60.png,0,0,0,1
+493,1311,tissue_classification/cancer/TCGA-B0-5691_89607_46977_cancer_11430.png,0,1,0,0
+494,1229,tissue_classification/cancer/TCGA-B0-5691_28128_19222_cancer_11349.png,0,1,0,0
+495,2642,tissue_classification/cancer/TCGA-CZ-4861_14355_12226_cancer_10171.png,0,1,0,0
+496,2945,tissue_classification/normal/TCGA-G6-A8L8_14513_24988_normal_4942.png,0,0,1,0
+497,2364,tissue_classification/cancer/TCGA-BP-4759_33932_58085_cancer_11062.png,0,1,0,0
+498,2956,tissue_classification/normal/TCGA-T7-A92I_41848_79845_normal_6208.png,0,0,1,0
+499,1131,tissue_classification/cancer/TCGA-B0-5691_26028_19222_cancer_11251.png,0,1,0,0
+500,530,tissue_classification/cancer/TCGA-AK-3430_10924_37882_cancer_12199.png,0,1,0,0
+501,22,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_BloodTile 18.png,1,0,0,0
+502,1834,tissue_classification/cancer/TCGA-B4-5843_28416_31372_cancer_10091.png,0,1,0,0
+503,4872,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 83.png,0,0,0,1
+504,5561,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 231.png,0,0,0,1
+505,1134,tissue_classification/cancer/TCGA-B0-5691_26028_20122_cancer_11254.png,0,1,0,0
+506,1351,tissue_classification/cancer/TCGA-B0-5691_90207_49977_cancer_11470.png,0,1,0,0
+507,5533,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 203.png,0,0,0,1
+508,156,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 127.png,1,0,0,0
+509,3766,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 214.png,0,0,1,0
+510,1380,tissue_classification/cancer/TCGA-B0-5691_90807_49677_cancer_11499.png,0,1,0,0
+511,1866,tissue_classification/cancer/TCGA-B8-4154_18634_24773_cancer_11886.png,0,1,0,0
+512,2236,tissue_classification/cancer/TCGA-B8-A54K_168358_31904_cancer_5809.png,0,1,0,0
+513,421,tissue_classification/cancer/TCGA-A3-3331_13959_27966_cancer_10716.png,0,1,0,0
+514,3186,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 28.png,0,0,1,0
+515,3230,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 72.png,0,0,1,0
+516,3335,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 87.png,0,0,1,0
+517,617,tissue_classification/cancer/TCGA-B0-4713_36766_23833_cancer_10548.png,0,1,0,0
+518,4345,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 795.png,0,0,1,0
+519,5253,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 183.png,0,0,0,1
+520,4957,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 78.png,0,0,0,1
+521,2297,tissue_classification/cancer/TCGA-B8-A54K_169858_31004_cancer_5871.png,0,1,0,0
+522,3556,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 118.png,0,0,1,0
+523,4222,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 670.png,0,0,1,0
+524,4507,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 179.png,0,0,1,0
+525,4376,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 826.png,0,0,1,0
+526,1458,tissue_classification/cancer/TCGA-B0-5691_92607_46977_cancer_11577.png,0,1,0,0
+527,2073,tissue_classification/cancer/TCGA-B8-5546_103399_28594_cancer_2467.png,0,1,0,0
+528,94,tissue_classification/blood/TCGA-BP-4981_67004_10905_cancer_8897.png,1,0,0,0
+529,3398,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 60.png,0,0,1,0
+530,542,tissue_classification/cancer/TCGA-AK-3430_11224_37882_cancer_12211.png,0,1,0,0
+531,1226,tissue_classification/cancer/TCGA-B0-5691_28128_18322_cancer_11346.png,0,1,0,0
+532,4353,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 803.png,0,0,1,0
+533,3453,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 22.png,0,0,1,0
+534,2736,tissue_classification/cancer/TCGA-DV-5566_61556_34332_cancer_10536.png,0,1,0,0
+535,5475,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 145.png,0,0,0,1
+536,2793,tissue_classification/normal/TCGA-CJ-4918_28356_33254_normal_2124.png,0,0,1,0
+537,2801,tissue_classification/normal/TCGA-CJ-4918_28356_35954_normal_2132.png,0,0,1,0
+538,2276,tissue_classification/cancer/TCGA-B8-A54K_169258_32504_cancer_5850.png,0,1,0,0
+539,432,tissue_classification/cancer/TCGA-A3-3331_14559_27666_cancer_10727.png,0,1,0,0
+540,4093,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 541.png,0,0,1,0
+541,4207,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 655.png,0,0,1,0
+542,623,tissue_classification/cancer/TCGA-B0-4713_36766_25933_cancer_10555.png,0,1,0,0
+543,1158,tissue_classification/cancer/TCGA-B0-5691_26628_18922_cancer_11278.png,0,1,0,0
+544,3641,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 120.png,0,0,1,0
+545,998,tissue_classification/cancer/TCGA-B0-5399_99158_45974_cancer_10895.png,0,1,0,0
+546,1466,tissue_classification/cancer/TCGA-B0-5691_92607_49677_cancer_11585.png,0,1,0,0
+547,3523,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 92.png,0,0,1,0
+548,2709,tissue_classification/cancer/TCGA-DV-5566_60956_33732_cancer_10508.png,0,1,0,0
+549,4340,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 790.png,0,0,1,0
+550,4737,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 39.png,0,0,0,1
+551,2813,tissue_classification/normal/TCGA-CJ-4918_28656_35654_normal_2144.png,0,0,1,0
+552,486,tissue_classification/cancer/TCGA-A3-3370_18161_17050_cancer_10203.png,0,1,0,0
+553,5162,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 143.png,0,0,0,1
+554,5274,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 107.png,0,0,0,1
+555,1250,tissue_classification/cancer/TCGA-B0-5691_28728_17422_cancer_11370.png,0,1,0,0
+556,3719,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 167.png,0,0,1,0
+557,2507,tissue_classification/cancer/TCGA-CJ-4641_35181_33024_cancer_11729.png,0,1,0,0
+558,3141,tissue_classification/normal/TCGA-T7-A92I_46648_81045_normal_6416.png,0,0,1,0
+559,5539,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 209.png,0,0,0,1
+560,3689,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 137.png,0,0,1,0
+561,129,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 136.png,1,0,0,0
+562,5091,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 72.png,0,0,0,1
+563,1467,tissue_classification/cancer/TCGA-B0-5691_92607_49977_cancer_11586.png,0,1,0,0
+564,5599,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 269.png,0,0,0,1
+565,5134,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 115.png,0,0,0,1
+566,4779,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 81.png,0,0,0,1
+567,1172,tissue_classification/cancer/TCGA-B0-5691_26928_18922_cancer_11292.png,0,1,0,0
+568,1006,tissue_classification/cancer/TCGA-B0-5399_99158_48374_cancer_10903.png,0,1,0,0
+569,4026,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 474.png,0,0,1,0
+570,1735,tissue_classification/cancer/TCGA-B0-5698_144663_26923_cancer_7650.png,0,1,0,0
+571,4274,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 723.png,0,0,1,0
+572,1997,tissue_classification/cancer/TCGA-B8-4154_20734_27773_cancer_12026.png,0,1,0,0
+573,358,tissue_classification/cancer/TCGA-6D-AA2E_36013_24546_cancer_10295.png,0,1,0,0
+574,2703,tissue_classification/cancer/TCGA-DV-5566_60656_34932_cancer_10501.png,0,1,0,0
+575,2372,tissue_classification/cancer/TCGA-BP-4759_34232_56885_cancer_11070.png,0,1,0,0
+576,4011,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 459.png,0,0,1,0
+577,1497,tissue_classification/cancer/TCGA-B0-5691_93207_49977_cancer_11616.png,0,1,0,0
+578,5591,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 261.png,0,0,0,1
+579,4434,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 106.png,0,0,1,0
+580,2345,tissue_classification/cancer/TCGA-BP-4343_49733_30205_cancer_10442.png,0,1,0,0
+581,448,tissue_classification/cancer/TCGA-A3-3331_22007_30478_cancer_10743.png,0,1,0,0
+582,3933,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 381.png,0,0,1,0
+583,1204,tissue_classification/cancer/TCGA-B0-5691_27528_20122_cancer_11324.png,0,1,0,0
+584,1849,tissue_classification/cancer/TCGA-B4-5843_28716_31372_cancer_10106.png,0,1,0,0
+585,1205,tissue_classification/cancer/TCGA-B0-5691_27528_20422_cancer_11325.png,0,1,0,0
+586,1213,tissue_classification/cancer/TCGA-B0-5691_27828_18622_cancer_11333.png,0,1,0,0
+587,874,tissue_classification/cancer/TCGA-B0-5399_97058_48674_cancer_10771.png,0,1,0,0
+588,2124,tissue_classification/cancer/TCGA-B8-5546_105199_29494_cancer_2518.png,0,1,0,0
+589,3629,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 108.png,0,0,1,0
+590,2580,tissue_classification/cancer/TCGA-CJ-4641_37881_33324_cancer_11802.png,0,1,0,0
+591,808,tissue_classification/cancer/TCGA-B0-5399_25282_40792_cancer_10953.png,0,1,0,0
+592,1565,tissue_classification/cancer/TCGA-B0-5698_141963_27223_cancer_7480.png,0,1,0,0
+593,4628,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 77.png,0,0,0,1
+594,221,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 105.png,0,1,0,0
+595,1642,tissue_classification/cancer/TCGA-B0-5698_143163_27523_cancer_7557.png,0,1,0,0
+596,4304,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 754.png,0,0,1,0
+597,3049,tissue_classification/normal/TCGA-T7-A92I_43948_80745_normal_6302.png,0,0,1,0
+598,4539,tissue_classification/stroma/TCGA-T7-A92I_61992_110033_other_2908.png,0,0,0,1
+599,32,tissue_classification/blood/TCGA-A3-3359_18925_40138_cancer_9176.png,1,0,0,0
+600,5043,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 24.png,0,0,0,1
+601,3702,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 150.png,0,0,1,0
+602,3384,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 46.png,0,0,1,0
+603,754,tissue_classification/cancer/TCGA-B0-4713_38866_25633_cancer_10687.png,0,1,0,0
+604,5163,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 144.png,0,0,0,1
+605,924,tissue_classification/cancer/TCGA-B0-5399_97958_46574_cancer_10821.png,0,1,0,0
+606,2310,tissue_classification/cancer/TCGA-B8-A54K_170158_31004_cancer_5884.png,0,1,0,0
+607,3905,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 353.png,0,0,1,0
+608,2411,tissue_classification/cancer/TCGA-BP-4759_36032_56285_cancer_11121.png,0,1,0,0
+609,1813,tissue_classification/cancer/TCGA-B4-5843_28116_29572_cancer_10070.png,0,1,0,0
+610,2550,tissue_classification/cancer/TCGA-CJ-4641_36681_33924_cancer_11772.png,0,1,0,0
+611,293,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 110.png,0,1,0,0
+612,2460,tissue_classification/cancer/TCGA-CJ-4641_33381_33324_cancer_11682.png,0,1,0,0
+613,4521,tissue_classification/stroma/TCGA-T7-A92I_60792_109733_other_2871.png,0,0,0,1
+614,1872,tissue_classification/cancer/TCGA-B8-4154_18634_26573_cancer_11892.png,0,1,0,0
+615,5371,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 204.png,0,0,0,1
+616,3386,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 48.png,0,0,1,0
+617,5129,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 110.png,0,0,0,1
+618,672,tissue_classification/cancer/TCGA-B0-4713_37666_23533_cancer_10604.png,0,1,0,0
+619,1869,tissue_classification/cancer/TCGA-B8-4154_18634_25673_cancer_11889.png,0,1,0,0
+620,3399,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 61.png,0,0,1,0
+621,3818,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 266.png,0,0,1,0
+622,3236,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 78.png,0,0,1,0
+623,4436,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 108.png,0,0,1,0
+624,4921,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 42.png,0,0,0,1
+625,3264,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 16.png,0,0,1,0
+626,3103,tissue_classification/normal/TCGA-T7-A92I_45748_80145_normal_6374.png,0,0,1,0
+627,164,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 136.png,1,0,0,0
+628,4390,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 840.png,0,0,1,0
+629,517,tissue_classification/cancer/TCGA-AK-3430_10324_40882_cancer_12186.png,0,1,0,0
+630,424,tissue_classification/cancer/TCGA-A3-3331_14259_27066_cancer_10719.png,0,1,0,0
+631,764,tissue_classification/cancer/TCGA-B0-5119_74842_65690_cancer_11666.png,0,1,0,0
+632,1687,tissue_classification/cancer/TCGA-B0-5698_144063_23923_cancer_7602.png,0,1,0,0
+633,3507,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 76.png,0,0,1,0
+634,2689,tissue_classification/cancer/TCGA-DV-5566_60356_33432_cancer_10486.png,0,1,0,0
+635,315,tissue_classification/cancer/TCGA-6D-AA2E_34213_24246_cancer_10252.png,0,1,0,0
+636,2665,tissue_classification/cancer/TCGA-CZ-5453_81264_34721_cancer_10361.png,0,1,0,0
+637,1618,tissue_classification/cancer/TCGA-B0-5698_142863_26023_cancer_7533.png,0,1,0,0
+638,396,tissue_classification/cancer/TCGA-6D-AA2E_37513_25746_cancer_10334.png,0,1,0,0
+639,1891,tissue_classification/cancer/TCGA-B8-4154_18934_26873_cancer_11912.png,0,1,0,0
+640,2953,tissue_classification/normal/TCGA-T7-A92I_41848_78945_normal_6205.png,0,0,1,0
+641,4842,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 53.png,0,0,0,1
+642,3464,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 33.png,0,0,1,0
+643,2478,tissue_classification/cancer/TCGA-CJ-4641_33981_33924_cancer_11700.png,0,1,0,0
+644,3490,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 59.png,0,0,1,0
+645,840,tissue_classification/cancer/TCGA-B0-5399_26182_41692_cancer_10985.png,0,1,0,0
+646,2725,tissue_classification/cancer/TCGA-DV-5566_61256_34932_cancer_10525.png,0,1,0,0
+647,1815,tissue_classification/cancer/TCGA-B4-5843_28116_30172_cancer_10072.png,0,1,0,0
+648,2873,tissue_classification/normal/TCGA-CZ-4861_40350_17050_normal_4940.png,0,0,1,0
+649,1195,tissue_classification/cancer/TCGA-B0-5691_27528_17422_cancer_11315.png,0,1,0,0
+650,4584,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 33.png,0,0,0,1
+651,699,tissue_classification/cancer/TCGA-B0-4713_37966_26233_cancer_10632.png,0,1,0,0
+652,4438,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 110.png,0,0,1,0
+653,1853,tissue_classification/cancer/TCGA-B4-5843_28716_32572_cancer_10110.png,0,1,0,0
+654,3817,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 265.png,0,0,1,0
+655,1927,tissue_classification/cancer/TCGA-B8-4154_19534_27473_cancer_11949.png,0,1,0,0
+656,5287,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 120.png,0,0,0,1
+657,1978,tissue_classification/cancer/TCGA-B8-4154_20434_27473_cancer_12006.png,0,1,0,0
+658,900,tissue_classification/cancer/TCGA-B0-5399_97658_45074_cancer_10797.png,0,1,0,0
+659,2661,tissue_classification/cancer/TCGA-CZ-5453_80964_34421_cancer_10357.png,0,1,0,0
+660,5363,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 196.png,0,0,0,1
+661,1118,tissue_classification/cancer/TCGA-B0-5691_25728_19522_cancer_11238.png,0,1,0,0
+662,5546,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 216.png,0,0,0,1
+663,1848,tissue_classification/cancer/TCGA-B4-5843_28716_31072_cancer_10105.png,0,1,0,0
+664,4463,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 135.png,0,0,1,0
+665,4389,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 839.png,0,0,1,0
+666,3604,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 166.png,0,0,1,0
+667,2320,tissue_classification/cancer/TCGA-BP-4160_22412_50669_cancer_12299.png,0,1,0,0
+668,4685,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 44.png,0,0,0,1
+669,1895,tissue_classification/cancer/TCGA-B8-4154_19234_22973_cancer_11916.png,0,1,0,0
+670,4228,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 676.png,0,0,1,0
+671,4041,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 489.png,0,0,1,0
+672,1463,tissue_classification/cancer/TCGA-B0-5691_92607_48777_cancer_11582.png,0,1,0,0
+673,1564,tissue_classification/cancer/TCGA-B0-5698_141963_26923_cancer_7479.png,0,1,0,0
+674,3486,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 55.png,0,0,1,0
+675,3352,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 14.png,0,0,1,0
+676,4645,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 94.png,0,0,0,1
+677,5177,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 107.png,0,0,0,1
+678,5410,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 243.png,0,0,0,1
+679,4751,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 53.png,0,0,0,1
+680,744,tissue_classification/cancer/TCGA-B0-4713_38866_22633_cancer_10677.png,0,1,0,0
+681,1639,tissue_classification/cancer/TCGA-B0-5698_143163_26623_cancer_7554.png,0,1,0,0
+682,1500,tissue_classification/cancer/TCGA-B0-5691_93207_50877_cancer_11619.png,0,1,0,0
+683,3715,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 163.png,0,0,1,0
+684,647,tissue_classification/cancer/TCGA-B0-4713_37366_21733_cancer_10579.png,0,1,0,0
+685,4974,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 95.png,0,0,0,1
+686,3675,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 123.png,0,0,1,0
+687,5224,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 154.png,0,0,0,1
+688,4076,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 524.png,0,0,1,0
+689,3070,tissue_classification/normal/TCGA-T7-A92I_44848_79545_normal_6335.png,0,0,1,0
+690,5067,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 48.png,0,0,0,1
+691,3019,tissue_classification/normal/TCGA-T7-A92I_43348_79245_normal_6271.png,0,0,1,0
+692,842,tissue_classification/cancer/TCGA-B0-5399_26482_39292_cancer_10987.png,0,1,0,0
+693,3306,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 58.png,0,0,1,0
+694,150,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 120.png,1,0,0,0
+695,1647,tissue_classification/cancer/TCGA-B0-5698_143463_23323_cancer_7562.png,0,1,0,0
+696,1769,tissue_classification/cancer/TCGA-B4-5843_27216_29572_cancer_10026.png,0,1,0,0
+697,3454,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 23.png,0,0,1,0
+698,3121,tissue_classification/normal/TCGA-T7-A92I_46348_78945_normal_6396.png,0,0,1,0
+699,5054,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 35.png,0,0,0,1
+700,3254,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 96.png,0,0,1,0
+701,3868,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 316.png,0,0,1,0
+702,4031,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 479.png,0,0,1,0
+703,5225,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 155.png,0,0,0,1
+704,2782,tissue_classification/cancer/TCGA-EU-5904_64849_36955_cancer_10393.png,0,1,0,0
+705,1507,tissue_classification/cancer/TCGA-B0-5691_93507_48477_cancer_11626.png,0,1,0,0
+706,933,tissue_classification/cancer/TCGA-B0-5399_97958_49274_cancer_10830.png,0,1,0,0
+707,4141,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 589.png,0,0,1,0
+708,3,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 89.png,1,0,0,0
+709,1174,tissue_classification/cancer/TCGA-B0-5691_26928_19522_cancer_11294.png,0,1,0,0
+710,5066,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 47.png,0,0,0,1
+711,1577,tissue_classification/cancer/TCGA-B0-5698_142263_25123_cancer_7492.png,0,1,0,0
+712,4909,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 30.png,0,0,0,1
+713,5574,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 244.png,0,0,0,1
+714,881,tissue_classification/cancer/TCGA-B0-5399_97358_45074_cancer_10778.png,0,1,0,0
+715,2225,tissue_classification/cancer/TCGA-B8-A54K_168058_32504_cancer_5798.png,0,1,0,0
+716,1038,tissue_classification/cancer/TCGA-B0-5691_23928_20722_cancer_11158.png,0,1,0,0
+717,927,tissue_classification/cancer/TCGA-B0-5399_97958_47474_cancer_10824.png,0,1,0,0
+718,3931,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 379.png,0,0,1,0
+719,239,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 123.png,0,1,0,0
+720,1624,tissue_classification/cancer/TCGA-B0-5698_143163_22123_cancer_7539.png,0,1,0,0
+721,5531,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 201.png,0,0,0,1
+722,3197,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 39.png,0,0,1,0
+723,4291,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 740.png,0,0,1,0
+724,4440,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 112.png,0,0,1,0
+725,4177,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 625.png,0,0,1,0
+726,3448,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 17.png,0,0,1,0
+727,2863,tissue_classification/normal/TCGA-CJ-4923_19749_47932_normal_6197.png,0,0,1,0
+728,2338,tissue_classification/cancer/TCGA-BP-4343_49133_29605_cancer_10434.png,0,1,0,0
+729,4971,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 92.png,0,0,0,1
+730,5314,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 147.png,0,0,0,1
+731,4720,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 22.png,0,0,0,1
+732,4308,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 758.png,0,0,1,0
+733,2908,tissue_classification/normal/TCGA-EU-5907_10155_56997_normal_1844.png,0,0,1,0
+734,3549,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 111.png,0,0,1,0
+735,1156,tissue_classification/cancer/TCGA-B0-5691_26628_18322_cancer_11276.png,0,1,0,0
+736,1748,tissue_classification/cancer/TCGA-B4-5843_26616_32272_cancer_10005.png,0,1,0,0
+737,1811,tissue_classification/cancer/TCGA-B4-5843_27816_33472_cancer_10068.png,0,1,0,0
+738,5377,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 210.png,0,0,0,1
+739,954,tissue_classification/cancer/TCGA-B0-5399_98258_49874_cancer_10851.png,0,1,0,0
+740,2845,tissue_classification/normal/TCGA-CJ-4918_29256_35954_normal_2177.png,0,0,1,0
+741,5551,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 221.png,0,0,0,1
+742,3273,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 25.png,0,0,1,0
+743,5077,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 58.png,0,0,0,1
+744,5245,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 175.png,0,0,0,1
+745,3962,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 410.png,0,0,1,0
+746,5508,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 178.png,0,0,0,1
+747,3685,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 133.png,0,0,1,0
+748,3163,tissue_classification/normal/TCGA-T7-A92I_47248_80145_normal_6439.png,0,0,1,0
+749,714,tissue_classification/cancer/TCGA-B0-4713_38266_25033_cancer_10647.png,0,1,0,0
+750,5532,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 202.png,0,0,0,1
+751,1375,tissue_classification/cancer/TCGA-B0-5691_90807_48177_cancer_11494.png,0,1,0,0
+752,524,tissue_classification/cancer/TCGA-AK-3430_10624_39682_cancer_12193.png,0,1,0,0
+753,4501,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 173.png,0,0,1,0
+754,2083,tissue_classification/cancer/TCGA-B8-5546_103699_29194_cancer_2477.png,0,1,0,0
+755,3066,tissue_classification/normal/TCGA-T7-A92I_44548_78345_normal_6320.png,0,0,1,0
+756,5204,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 134.png,0,0,0,1
+757,1496,tissue_classification/cancer/TCGA-B0-5691_93207_49677_cancer_11615.png,0,1,0,0
+758,5050,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 31.png,0,0,0,1
+759,2164,tissue_classification/cancer/TCGA-B8-5546_106699_29494_cancer_2558.png,0,1,0,0
+760,4982,tissue_classification/stroma/TCGA-B8-4154_18934_22373_cancer_11897.png,0,0,0,1
+761,1004,tissue_classification/cancer/TCGA-B0-5399_99158_47774_cancer_10901.png,0,1,0,0
+762,679,tissue_classification/cancer/TCGA-B0-4713_37666_25633_cancer_10611.png,0,1,0,0
+763,453,tissue_classification/cancer/TCGA-A3-3331_22307_31078_cancer_10748.png,0,1,0,0
+764,1819,tissue_classification/cancer/TCGA-B4-5843_28116_31372_cancer_10076.png,0,1,0,0
+765,2252,tissue_classification/cancer/TCGA-B8-A54K_168958_29204_cancer_5826.png,0,1,0,0
+766,4421,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 871.png,0,0,1,0
+767,772,tissue_classification/cancer/TCGA-B0-5399_24082_41092_cancer_10917.png,0,1,0,0
+768,4306,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 756.png,0,0,1,0
+769,1625,tissue_classification/cancer/TCGA-B0-5698_143163_22423_cancer_7540.png,0,1,0,0
+770,3853,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 301.png,0,0,1,0
+771,705,tissue_classification/cancer/TCGA-B0-4713_38266_22333_cancer_10638.png,0,1,0,0
+772,2515,tissue_classification/cancer/TCGA-CJ-4641_35481_33024_cancer_11737.png,0,1,0,0
+773,932,tissue_classification/cancer/TCGA-B0-5399_97958_48974_cancer_10829.png,0,1,0,0
+774,2132,tissue_classification/cancer/TCGA-B8-5546_105499_29494_cancer_2526.png,0,1,0,0
+775,2528,tissue_classification/cancer/TCGA-CJ-4641_36081_32124_cancer_11750.png,0,1,0,0
+776,3176,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 18.png,0,0,1,0
+777,37,tissue_classification/blood/TCGA-A3-3359_20125_37738_cancer_9234.png,1,0,0,0
+778,3250,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 92.png,0,0,1,0
+779,2226,tissue_classification/cancer/TCGA-B8-A54K_168358_28904_cancer_5799.png,0,1,0,0
+780,3321,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 73.png,0,0,1,0
+781,5390,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 223.png,0,0,0,1
+782,1926,tissue_classification/cancer/TCGA-B8-4154_19534_27173_cancer_11948.png,0,1,0,0
+783,3845,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 293.png,0,0,1,0
+784,3924,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 372.png,0,0,1,0
+785,4596,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 45.png,0,0,0,1
+786,4290,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 739.png,0,0,1,0
+787,4188,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 636.png,0,0,1,0
+788,2097,tissue_classification/cancer/TCGA-B8-5546_104299_28594_cancer_2491.png,0,1,0,0
+789,2893,tissue_classification/normal/TCGA-EU-5907_10155_52497_normal_1829.png,0,0,1,0
+790,1528,tissue_classification/cancer/TCGA-B0-5691_93807_50277_cancer_11647.png,0,1,0,0
+791,1970,tissue_classification/cancer/TCGA-B8-4154_20434_25073_cancer_11998.png,0,1,0,0
+792,5487,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 157.png,0,0,0,1
+793,654,tissue_classification/cancer/TCGA-B0-4713_37366_23833_cancer_10586.png,0,1,0,0
+794,941,tissue_classification/cancer/TCGA-B0-5399_98258_45974_cancer_10838.png,0,1,0,0
+795,183,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 155.png,1,0,0,0
+796,2348,tissue_classification/cancer/TCGA-BP-4343_50033_30205_cancer_10445.png,0,1,0,0
+797,1761,tissue_classification/cancer/TCGA-B4-5843_26916_31672_cancer_10018.png,0,1,0,0
+798,3462,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 31.png,0,0,1,0
+799,2165,tissue_classification/cancer/TCGA-B8-5546_106699_29794_cancer_2559.png,0,1,0,0
+800,115,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 111.png,1,0,0,0
+801,4732,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 34.png,0,0,0,1
+802,425,tissue_classification/cancer/TCGA-A3-3331_14259_27366_cancer_10720.png,0,1,0,0
+803,2104,tissue_classification/cancer/TCGA-B8-5546_104599_28294_cancer_2498.png,0,1,0,0
+804,551,tissue_classification/cancer/TCGA-AK-3430_11224_40582_cancer_12220.png,0,1,0,0
+805,2682,tissue_classification/cancer/TCGA-DV-5566_60056_34032_cancer_10479.png,0,1,0,0
+806,2328,tissue_classification/cancer/TCGA-BP-4164_92992_68354_cancer_12248.png,0,1,0,0
+807,496,tissue_classification/cancer/TCGA-AK-3428_18810_25878_cancer_10381.png,0,1,0,0
+808,2493,tissue_classification/cancer/TCGA-CJ-4641_34581_33624_cancer_11715.png,0,1,0,0
+809,4479,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 151.png,0,0,1,0
+810,3651,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 130.png,0,0,1,0
+811,2576,tissue_classification/cancer/TCGA-CJ-4641_37881_32124_cancer_11798.png,0,1,0,0
+812,1863,tissue_classification/cancer/TCGA-B8-4154_18634_23873_cancer_11883.png,0,1,0,0
+813,2052,tissue_classification/cancer/TCGA-B8-5159_30745_10527_cancer_11025.png,0,1,0,0
+814,4198,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 646.png,0,0,1,0
+815,4719,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 21.png,0,0,0,1
+816,863,tissue_classification/cancer/TCGA-B0-5399_97058_45374_cancer_10760.png,0,1,0,0
+817,3714,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 162.png,0,0,1,0
+818,3855,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 303.png,0,0,1,0
+819,4505,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 177.png,0,0,1,0
+820,243,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 127.png,0,1,0,0
+821,2590,tissue_classification/cancer/TCGA-CJ-4641_38481_31824_cancer_11813.png,0,1,0,0
+822,3359,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 21.png,0,0,1,0
+823,4938,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 59.png,0,0,0,1
+824,4882,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 93.png,0,0,0,1
+825,2920,tissue_classification/normal/TCGA-EU-5907_10455_55197_normal_1856.png,0,0,1,0
+826,4169,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 617.png,0,0,1,0
+827,3927,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 375.png,0,0,1,0
+828,4588,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 37.png,0,0,0,1
+829,4849,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 60.png,0,0,0,1
+830,1731,tissue_classification/cancer/TCGA-B0-5698_144663_25723_cancer_7646.png,0,1,0,0
+831,411,tissue_classification/cancer/TCGA-A3-3331_13359_28566_cancer_10706.png,0,1,0,0
+832,5086,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 67.png,0,0,0,1
+833,1937,tissue_classification/cancer/TCGA-B8-4154_19834_25673_cancer_11962.png,0,1,0,0
+834,435,tissue_classification/cancer/TCGA-A3-3331_14559_28566_cancer_10730.png,0,1,0,0
+835,800,tissue_classification/cancer/TCGA-B0-5399_24982_41392_cancer_10945.png,0,1,0,0
+836,3364,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 26.png,0,0,1,0
+837,4251,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 700.png,0,0,1,0
+838,4726,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 28.png,0,0,0,1
+839,4644,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 93.png,0,0,0,1
+840,4305,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 755.png,0,0,1,0
+841,751,tissue_classification/cancer/TCGA-B0-4713_38866_24733_cancer_10684.png,0,1,0,0
+842,1547,tissue_classification/cancer/TCGA-B0-5696_33659_58638_cancer_11130.png,0,1,0,0
+843,2122,tissue_classification/cancer/TCGA-B8-5546_105199_28894_cancer_2516.png,0,1,0,0
+844,281,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_BloodTile 102.png,0,1,0,0
+845,625,tissue_classification/cancer/TCGA-B0-4713_36766_26533_cancer_10557.png,0,1,0,0
+846,4833,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 44.png,0,0,0,1
+847,1980,tissue_classification/cancer/TCGA-B8-4154_20734_22373_cancer_12008.png,0,1,0,0
+848,791,tissue_classification/cancer/TCGA-B0-5399_24682_41092_cancer_10936.png,0,1,0,0
+849,2215,tissue_classification/cancer/TCGA-B8-A54K_168058_29504_cancer_5788.png,0,1,0,0
+850,980,tissue_classification/cancer/TCGA-B0-5399_98858_46274_cancer_10877.png,0,1,0,0
+851,3545,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 107.png,0,0,1,0
+852,465,tissue_classification/cancer/TCGA-A3-3335_15168_18438_cancer_10115.png,0,1,0,0
+853,3467,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 36.png,0,0,1,0
+854,4366,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 816.png,0,0,1,0
+855,4161,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 609.png,0,0,1,0
+856,1046,tissue_classification/cancer/TCGA-B0-5691_24228_18922_cancer_11166.png,0,1,0,0
+857,3053,tissue_classification/normal/TCGA-T7-A92I_44248_78045_normal_6306.png,0,0,1,0
+858,31,tissue_classification/blood/TCGA-A3-3359_16825_35338_cancer_9036.png,1,0,0,0
+859,5589,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 259.png,0,0,0,1
+860,563,tissue_classification/cancer/TCGA-AK-3430_11524_40882_cancer_12232.png,0,1,0,0
+861,4168,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 616.png,0,0,1,0
+862,2660,tissue_classification/cancer/TCGA-CZ-5453_80964_34121_cancer_10356.png,0,1,0,0
+863,1405,tissue_classification/cancer/TCGA-B0-5691_91407_48177_cancer_11524.png,0,1,0,0
+864,3773,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 221.png,0,0,1,0
+865,1709,tissue_classification/cancer/TCGA-B0-5698_144363_24823_cancer_7624.png,0,1,0,0
+866,2936,tissue_classification/normal/TCGA-EU-5907_10755_54597_normal_1872.png,0,0,1,0
+867,282,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_BloodTile 110.png,0,1,0,0
+868,1715,tissue_classification/cancer/TCGA-B0-5698_144363_26623_cancer_7630.png,0,1,0,0
+869,3609,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 171.png,0,0,1,0
+870,2048,tissue_classification/cancer/TCGA-B8-5159_30445_10227_cancer_11020.png,0,1,0,0
+871,2448,tissue_classification/cancer/TCGA-CJ-4641_33081_32124_cancer_11670.png,0,1,0,0
+872,3260,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 12.png,0,0,1,0
+873,42,tissue_classification/blood/TCGA-B0-4690_35859_70989_cancer_4834.png,1,0,0,0
+874,3659,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 107.png,0,0,1,0
+875,2465,tissue_classification/cancer/TCGA-CJ-4641_33681_32424_cancer_11687.png,0,1,0,0
+876,2674,tissue_classification/cancer/TCGA-CZ-5988_51505_38904_cancer_10248.png,0,1,0,0
+877,2843,tissue_classification/normal/TCGA-CJ-4918_29256_35354_normal_2175.png,0,0,1,0
+878,930,tissue_classification/cancer/TCGA-B0-5399_97958_48374_cancer_10827.png,0,1,0,0
+879,1548,tissue_classification/cancer/TCGA-B0-5698_141963_22123_cancer_7463.png,0,1,0,0
+880,3700,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 148.png,0,0,1,0
+881,4477,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 149.png,0,0,1,0
+882,1975,tissue_classification/cancer/TCGA-B8-4154_20434_26573_cancer_12003.png,0,1,0,0
+883,2045,tissue_classification/cancer/TCGA-B8-5159_30145_10527_cancer_11017.png,0,1,0,0
+884,1602,tissue_classification/cancer/TCGA-B0-5698_142563_26923_cancer_7517.png,0,1,0,0
+885,2989,tissue_classification/normal/TCGA-T7-A92I_42748_78045_normal_6241.png,0,0,1,0
+886,4836,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 47.png,0,0,0,1
+887,4944,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 65.png,0,0,0,1
+888,1316,tissue_classification/cancer/TCGA-B0-5691_89607_48477_cancer_11435.png,0,1,0,0
+889,5478,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 148.png,0,0,0,1
+890,2087,tissue_classification/cancer/TCGA-B8-5546_103999_27994_cancer_2481.png,0,1,0,0
+891,851,tissue_classification/cancer/TCGA-B0-5399_26782_38992_cancer_10996.png,0,1,0,0
+892,5571,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 241.png,0,0,0,1
+893,4058,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 506.png,0,0,1,0
+894,3297,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 49.png,0,0,1,0
+895,46,tissue_classification/blood/TCGA-B0-4699_27700_66275_stroma_2020.png,1,0,0,0
+896,2568,tissue_classification/cancer/TCGA-CJ-4641_37581_32124_cancer_11790.png,0,1,0,0
+897,859,tissue_classification/cancer/TCGA-B0-5399_26782_41392_cancer_11004.png,0,1,0,0
+898,3265,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 17.png,0,0,1,0
+899,169,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 141.png,1,0,0,0
+900,2996,tissue_classification/normal/TCGA-T7-A92I_42748_80145_normal_6248.png,0,0,1,0
+901,1512,tissue_classification/cancer/TCGA-B0-5691_93507_49977_cancer_11631.png,0,1,0,0
+902,3266,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 18.png,0,0,1,0
+903,3275,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 27.png,0,0,1,0
+904,3263,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 15.png,0,0,1,0
+905,2012,tissue_classification/cancer/TCGA-B8-4154_21034_26573_cancer_12041.png,0,1,0,0
+906,1524,tissue_classification/cancer/TCGA-B0-5691_93807_49077_cancer_11643.png,0,1,0,0
+907,1300,tissue_classification/cancer/TCGA-B0-5691_89307_48177_cancer_11419.png,0,1,0,0
+908,5323,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 156.png,0,0,0,1
+909,4799,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 10.png,0,0,0,1
+910,3799,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 247.png,0,0,1,0
+911,651,tissue_classification/cancer/TCGA-B0-4713_37366_22933_cancer_10583.png,0,1,0,0
+912,1335,tissue_classification/cancer/TCGA-B0-5691_89907_49677_cancer_11454.png,0,1,0,0
+913,2420,tissue_classification/cancer/TCGA-BP-4974_82891_42083_cancer_10366.png,0,1,0,0
+914,4656,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 15.png,0,0,0,1
+915,1224,tissue_classification/cancer/TCGA-B0-5691_28128_17722_cancer_11344.png,0,1,0,0
+916,878,tissue_classification/cancer/TCGA-B0-5399_97058_49874_cancer_10775.png,0,1,0,0
+917,794,tissue_classification/cancer/TCGA-B0-5399_24982_39292_cancer_10939.png,0,1,0,0
+918,2002,tissue_classification/cancer/TCGA-B8-4154_21034_23573_cancer_12031.png,0,1,0,0
+919,314,tissue_classification/cancer/TCGA-3Z-A93Z_63452_29558_cancer_12251.png,0,1,0,0
+920,4232,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 680.png,0,0,1,0
+921,1621,tissue_classification/cancer/TCGA-B0-5698_142863_26923_cancer_7536.png,0,1,0,0
+922,1079,tissue_classification/cancer/TCGA-B0-5691_24828_20422_cancer_11199.png,0,1,0,0
+923,3079,tissue_classification/normal/TCGA-T7-A92I_45148_80445_normal_6349.png,0,0,1,0
+924,3861,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 309.png,0,0,1,0
+925,2468,tissue_classification/cancer/TCGA-CJ-4641_33681_33324_cancer_11690.png,0,1,0,0
+926,3895,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 343.png,0,0,1,0
+927,5200,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 130.png,0,0,0,1
+928,5098,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 79.png,0,0,0,1
+929,2298,tissue_classification/cancer/TCGA-B8-A54K_169858_31304_cancer_5872.png,0,1,0,0
+930,1139,tissue_classification/cancer/TCGA-B0-5691_26328_17422_cancer_11259.png,0,1,0,0
+931,1956,tissue_classification/cancer/TCGA-B8-4154_20134_26573_cancer_11984.png,0,1,0,0
+932,2806,tissue_classification/normal/TCGA-CJ-4918_28656_32654_normal_2137.png,0,0,1,0
+933,2149,tissue_classification/cancer/TCGA-B8-5546_106099_29794_cancer_2543.png,0,1,0,0
+934,4299,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 749.png,0,0,1,0
+935,5307,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 140.png,0,0,0,1
+936,1785,tissue_classification/cancer/TCGA-B4-5843_27516_29872_cancer_10042.png,0,1,0,0
+937,2940,tissue_classification/normal/TCGA-EU-5907_10755_55797_normal_1876.png,0,0,1,0
+938,1622,tissue_classification/cancer/TCGA-B0-5698_142863_27223_cancer_7537.png,0,1,0,0
+939,4543,tissue_classification/stroma/TCGA-T7-A92I_61992_111233_other_2912.png,0,0,0,1
+940,600,tissue_classification/cancer/TCGA-B0-4706_20177_13854_cancer_10455.png,0,1,0,0
+941,3443,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 12.png,0,0,1,0
+942,4021,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 469.png,0,0,1,0
+943,3174,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 16.png,0,0,1,0
+944,337,tissue_classification/cancer/TCGA-6D-AA2E_35113_24546_cancer_10274.png,0,1,0,0
+945,3063,tissue_classification/normal/TCGA-T7-A92I_44248_81045_normal_6316.png,0,0,1,0
+946,2388,tissue_classification/cancer/TCGA-BP-4759_34532_58385_cancer_11087.png,0,1,0,0
+947,85,tissue_classification/blood/TCGA-B8-4151_32812_52625_cancer_5017.png,1,0,0,0
+948,2282,tissue_classification/cancer/TCGA-B8-A54K_169558_30404_cancer_5856.png,0,1,0,0
+949,3681,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 129.png,0,0,1,0
+950,3054,tissue_classification/normal/TCGA-T7-A92I_44248_78345_normal_6307.png,0,0,1,0
+951,258,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 142.png,0,1,0,0
+952,2158,tissue_classification/cancer/TCGA-B8-5546_106699_27694_cancer_2552.png,0,1,0,0
+953,2192,tissue_classification/cancer/TCGA-B8-5546_107899_28294_cancer_2586.png,0,1,0,0
+954,2051,tissue_classification/cancer/TCGA-B8-5159_30745_10227_cancer_11024.png,0,1,0,0
+955,1297,tissue_classification/cancer/TCGA-B0-5691_89307_47277_cancer_11416.png,0,1,0,0
+956,2143,tissue_classification/cancer/TCGA-B8-5546_106099_27994_cancer_2537.png,0,1,0,0
+957,1365,tissue_classification/cancer/TCGA-B0-5691_90507_49677_cancer_11484.png,0,1,0,0
+958,709,tissue_classification/cancer/TCGA-B0-4713_38266_23533_cancer_10642.png,0,1,0,0
+959,338,tissue_classification/cancer/TCGA-6D-AA2E_35113_24846_cancer_10275.png,0,1,0,0
+960,3292,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 44.png,0,0,1,0
+961,2510,tissue_classification/cancer/TCGA-CJ-4641_35181_33924_cancer_11732.png,0,1,0,0
+962,3652,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 100.png,0,0,1,0
+963,2118,tissue_classification/cancer/TCGA-B8-5546_105199_27694_cancer_2512.png,0,1,0,0
+964,2474,tissue_classification/cancer/TCGA-CJ-4641_33981_32724_cancer_11696.png,0,1,0,0
+965,1985,tissue_classification/cancer/TCGA-B8-4154_20734_24173_cancer_12014.png,0,1,0,0
+966,302,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 119.png,0,1,0,0
+967,3965,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 413.png,0,0,1,0
+968,945,tissue_classification/cancer/TCGA-B0-5399_98258_47174_cancer_10842.png,0,1,0,0
+969,2378,tissue_classification/cancer/TCGA-BP-4759_34232_58685_cancer_11076.png,0,1,0,0
+970,1077,tissue_classification/cancer/TCGA-B0-5691_24828_19822_cancer_11197.png,0,1,0,0
+971,482,tissue_classification/cancer/TCGA-A3-3370_18161_15850_cancer_10199.png,0,1,0,0
+972,1837,tissue_classification/cancer/TCGA-B4-5843_28416_32272_cancer_10094.png,0,1,0,0
+973,290,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 107.png,0,1,0,0
+974,2722,tissue_classification/cancer/TCGA-DV-5566_61256_34032_cancer_10522.png,0,1,0,0
+975,675,tissue_classification/cancer/TCGA-B0-4713_37666_24433_cancer_10607.png,0,1,0,0
+976,4976,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 97.png,0,0,0,1
+977,1972,tissue_classification/cancer/TCGA-B8-4154_20434_25673_cancer_12000.png,0,1,0,0
+978,1584,tissue_classification/cancer/TCGA-B0-5698_142263_27223_cancer_7499.png,0,1,0,0
+979,2746,tissue_classification/cancer/TCGA-DV-A4W0_72623_43405_cancer_11824.png,0,1,0,0
+980,1090,tissue_classification/cancer/TCGA-B0-5691_25128_19522_cancer_11210.png,0,1,0,0
+981,1873,tissue_classification/cancer/TCGA-B8-4154_18634_26873_cancer_11893.png,0,1,0,0
+982,5076,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 57.png,0,0,0,1
+983,1557,tissue_classification/cancer/TCGA-B0-5698_141963_24823_cancer_7472.png,0,1,0,0
+984,4890,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 11.png,0,0,0,1
+985,650,tissue_classification/cancer/TCGA-B0-4713_37366_22633_cancer_10582.png,0,1,0,0
+986,2699,tissue_classification/cancer/TCGA-DV-5566_60656_33732_cancer_10497.png,0,1,0,0
+987,4272,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 721.png,0,0,1,0
+988,3106,tissue_classification/normal/TCGA-T7-A92I_45748_81045_normal_6377.png,0,0,1,0
+989,3105,tissue_classification/normal/TCGA-T7-A92I_45748_80745_normal_6376.png,0,0,1,0
+990,1149,tissue_classification/cancer/TCGA-B0-5691_26328_20422_cancer_11269.png,0,1,0,0
+991,1940,tissue_classification/cancer/TCGA-B8-4154_19834_26573_cancer_11965.png,0,1,0,0
+992,1125,tissue_classification/cancer/TCGA-B0-5691_26028_17422_cancer_11245.png,0,1,0,0
+993,2888,tissue_classification/normal/TCGA-CZ-5460_55450_40787_normal_2444.png,0,0,1,0
+994,5420,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 253.png,0,0,0,1
+995,4863,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 74.png,0,0,0,1
+996,4154,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 602.png,0,0,1,0
+997,1041,tissue_classification/cancer/TCGA-B0-5691_24228_17422_cancer_11161.png,0,1,0,0
+998,4790,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 92.png,0,0,0,1
+999,4330,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 780.png,0,0,1,0
+1000,4344,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 794.png,0,0,1,0
+1001,4125,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 573.png,0,0,1,0
+1002,1712,tissue_classification/cancer/TCGA-B0-5698_144363_25723_cancer_7627.png,0,1,0,0
+1003,4190,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 638.png,0,0,1,0
+1004,43,tissue_classification/blood/TCGA-B0-4690_36459_71289_cancer_4852.png,1,0,0,0
+1005,4662,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 21.png,0,0,0,1
+1006,4203,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 651.png,0,0,1,0
+1007,776,tissue_classification/cancer/TCGA-B0-5399_24382_39292_cancer_10921.png,0,1,0,0
+1008,5424,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 257.png,0,0,0,1
+1009,2575,tissue_classification/cancer/TCGA-CJ-4641_37881_31824_cancer_11797.png,0,1,0,0
+1010,2341,tissue_classification/cancer/TCGA-BP-4343_49433_29605_cancer_10437.png,0,1,0,0
+1011,1721,tissue_classification/cancer/TCGA-B0-5698_144663_22723_cancer_7636.png,0,1,0,0
+1012,4666,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 25.png,0,0,0,1
+1013,3586,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 148.png,0,0,1,0
+1014,4549,tissue_classification/stroma/TCGA-T7-A92I_62592_109433_other_2924.png,0,0,0,1
+1015,3194,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 36.png,0,0,1,0
+1016,3840,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 288.png,0,0,1,0
+1017,3740,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 188.png,0,0,1,0
+1018,668,tissue_classification/cancer/TCGA-B0-4713_37666_22333_cancer_10600.png,0,1,0,0
+1019,5103,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 84.png,0,0,0,1
+1020,2015,tissue_classification/cancer/TCGA-B8-4154_21034_27473_cancer_12044.png,0,1,0,0
+1021,899,tissue_classification/cancer/TCGA-B0-5399_97658_44774_cancer_10796.png,0,1,0,0
+1022,1485,tissue_classification/cancer/TCGA-B0-5691_92907_50877_cancer_11604.png,0,1,0,0
+1023,222,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 106.png,0,1,0,0
+1024,1067,tissue_classification/cancer/TCGA-B0-5691_24528_21022_cancer_11187.png,0,1,0,0
+1025,2875,tissue_classification/normal/TCGA-CZ-5460_54250_40487_normal_2431.png,0,0,1,0
+1026,4621,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 70.png,0,0,0,1
+1027,4742,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 44.png,0,0,0,1
+1028,2273,tissue_classification/cancer/TCGA-B8-A54K_169258_31604_cancer_5847.png,0,1,0,0
+1029,2819,tissue_classification/normal/TCGA-CJ-4918_28956_32054_normal_2150.png,0,0,1,0
+1030,3330,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 82.png,0,0,1,0
+1031,322,tissue_classification/cancer/TCGA-6D-AA2E_34513_24246_cancer_10259.png,0,1,0,0
+1032,5170,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 100.png,0,0,0,1
+1033,2816,tissue_classification/normal/TCGA-CJ-4918_28656_36554_normal_2147.png,0,0,1,0
+1034,214,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_BloodTile 117.png,0,1,0,0
+1035,2959,tissue_classification/normal/TCGA-T7-A92I_41848_80745_normal_6211.png,0,0,1,0
+1036,5344,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 177.png,0,0,0,1
+1037,312,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 130.png,0,1,0,0
+1038,2167,tissue_classification/cancer/TCGA-B8-5546_106999_27994_cancer_2561.png,0,1,0,0
+1039,2844,tissue_classification/normal/TCGA-CJ-4918_29256_35654_normal_2176.png,0,0,1,0
+1040,1198,tissue_classification/cancer/TCGA-B0-5691_27528_18322_cancer_11318.png,0,1,0,0
+1041,2624,tissue_classification/cancer/TCGA-CZ-4861_11955_12226_cancer_10139.png,0,1,0,0
+1042,1561,tissue_classification/cancer/TCGA-B0-5698_141963_26023_cancer_7476.png,0,1,0,0
+1043,3874,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 322.png,0,0,1,0
+1044,1220,tissue_classification/cancer/TCGA-B0-5691_27828_20722_cancer_11340.png,0,1,0,0
+1045,2469,tissue_classification/cancer/TCGA-CJ-4641_33681_33624_cancer_11691.png,0,1,0,0
+1046,1014,tissue_classification/cancer/TCGA-B0-5691_23628_17722_cancer_11134.png,0,1,0,0
+1047,173,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 145.png,1,0,0,0
+1048,3253,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 95.png,0,0,1,0
+1049,268,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 152.png,0,1,0,0
+1050,2456,tissue_classification/cancer/TCGA-CJ-4641_33381_32124_cancer_11678.png,0,1,0,0
+1051,2204,tissue_classification/cancer/TCGA-B8-5546_108499_27994_cancer_2598.png,0,1,0,0
+1052,5214,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 144.png,0,0,0,1
+1053,1825,tissue_classification/cancer/TCGA-B4-5843_28116_33172_cancer_10082.png,0,1,0,0
+1054,4682,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 41.png,0,0,0,1
+1055,188,tissue_classification/blood/TCGA-DV-5566_60056_31332_cancer_10470.png,1,0,0,0
+1056,5510,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 180.png,0,0,0,1
+1057,3716,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 164.png,0,0,1,0
+1058,3072,tissue_classification/normal/TCGA-T7-A92I_44848_80145_normal_6337.png,0,0,1,0
+1059,1359,tissue_classification/cancer/TCGA-B0-5691_90507_47877_cancer_11478.png,0,1,0,0
+1060,2969,tissue_classification/normal/TCGA-T7-A92I_42148_79845_normal_6221.png,0,0,1,0
+1061,90,tissue_classification/blood/TCGA-BP-4795_15021_33765_stroma_2369.png,1,0,0,0
+1062,1668,tissue_classification/cancer/TCGA-B0-5698_143763_23923_cancer_7583.png,0,1,0,0
+1063,4194,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 642.png,0,0,1,0
+1064,3875,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 323.png,0,0,1,0
+1065,171,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 143.png,1,0,0,0
+1066,5552,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 222.png,0,0,0,1
+1067,4420,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 870.png,0,0,1,0
+1068,2758,tissue_classification/cancer/TCGA-EU-5904_51148_68276_cancer_10404.png,0,1,0,0
+1069,2267,tissue_classification/cancer/TCGA-B8-A54K_169258_29804_cancer_5841.png,0,1,0,0
+1070,2152,tissue_classification/cancer/TCGA-B8-5546_106399_28294_cancer_2546.png,0,1,0,0
+1071,2131,tissue_classification/cancer/TCGA-B8-5546_105499_29194_cancer_2525.png,0,1,0,0
+1072,4770,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 72.png,0,0,0,1
+1073,4854,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 65.png,0,0,0,1
+1074,3414,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 76.png,0,0,1,0
+1075,568,tissue_classification/cancer/TCGA-AK-3450_41236_22127_cancer_10214.png,0,1,0,0
+1076,291,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 108.png,0,1,0,0
+1077,981,tissue_classification/cancer/TCGA-B0-5399_98858_46574_cancer_10878.png,0,1,0,0
+1078,5208,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 138.png,0,0,0,1
+1079,4887,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 98.png,0,0,0,1
+1080,3416,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 78.png,0,0,1,0
+1081,1591,tissue_classification/cancer/TCGA-B0-5698_142563_23623_cancer_7506.png,0,1,0,0
+1082,1384,tissue_classification/cancer/TCGA-B0-5691_90807_50877_cancer_11503.png,0,1,0,0
+1083,2259,tissue_classification/cancer/TCGA-B8-A54K_168958_31304_cancer_5833.png,0,1,0,0
+1084,3154,tissue_classification/normal/TCGA-T7-A92I_46948_81045_normal_6429.png,0,0,1,0
+1085,5276,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 109.png,0,0,0,1
+1086,304,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 121.png,0,1,0,0
+1087,352,tissue_classification/cancer/TCGA-6D-AA2E_35713_24846_cancer_10289.png,0,1,0,0
+1088,5121,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 102.png,0,0,0,1
+1089,3590,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 152.png,0,0,1,0
+1090,3712,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 160.png,0,0,1,0
+1091,2732,tissue_classification/cancer/TCGA-DV-5566_61556_33132_cancer_10532.png,0,1,0,0
+1092,5251,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 181.png,0,0,0,1
+1093,1478,tissue_classification/cancer/TCGA-B0-5691_92907_48777_cancer_11597.png,0,1,0,0
+1094,4213,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 661.png,0,0,1,0
+1095,865,tissue_classification/cancer/TCGA-B0-5399_97058_45974_cancer_10762.png,0,1,0,0
+1096,1609,tissue_classification/cancer/TCGA-B0-5698_142863_23323_cancer_7524.png,0,1,0,0
+1097,5048,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 29.png,0,0,0,1
+1098,4792,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 94.png,0,0,0,1
+1099,712,tissue_classification/cancer/TCGA-B0-4713_38266_24433_cancer_10645.png,0,1,0,0
+1100,2834,tissue_classification/normal/TCGA-CJ-4918_29256_32354_normal_2165.png,0,0,1,0
+1101,1598,tissue_classification/cancer/TCGA-B0-5698_142563_25723_cancer_7513.png,0,1,0,0
+1102,5011,tissue_classification/stroma/TCGA-BP-4759_35732_55685_cancer_11115.png,0,0,0,1
+1103,492,tissue_classification/cancer/TCGA-A3-3370_18461_16750_cancer_10209.png,0,1,0,0
+1104,1513,tissue_classification/cancer/TCGA-B0-5691_93507_50277_cancer_11632.png,0,1,0,0
+1105,4281,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 730.png,0,0,1,0
+1106,912,tissue_classification/cancer/TCGA-B0-5399_97658_48674_cancer_10809.png,0,1,0,0
+1107,5523,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 193.png,0,0,0,1
+1108,4318,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 768.png,0,0,1,0
+1109,2914,tissue_classification/normal/TCGA-EU-5907_10455_53397_normal_1850.png,0,0,1,0
+1110,2182,tissue_classification/cancer/TCGA-B8-5546_107599_27694_cancer_2576.png,0,1,0,0
+1111,1307,tissue_classification/cancer/TCGA-B0-5691_89307_50277_cancer_11426.png,0,1,0,0
+1112,4963,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 84.png,0,0,0,1
+1113,102,tissue_classification/blood/TCGA-CZ-4856_20767_12959_cancer_9601.png,1,0,0,0
+1114,4495,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 167.png,0,0,1,0
+1115,2614,tissue_classification/cancer/TCGA-CZ-4857_36768_25816_cancer_11865.png,0,1,0,0
+1116,3423,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 85.png,0,0,1,0
+1117,3977,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 425.png,0,0,1,0
+1118,3583,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 145.png,0,0,1,0
+1119,4642,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 91.png,0,0,0,1
+1120,3311,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 63.png,0,0,1,0
+1121,2781,tissue_classification/cancer/TCGA-EU-5904_52348_69476_cancer_10428.png,0,1,0,0
+1122,3325,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 77.png,0,0,1,0
+1123,2347,tissue_classification/cancer/TCGA-BP-4343_50033_29905_cancer_10444.png,0,1,0,0
+1124,513,tissue_classification/cancer/TCGA-AK-3430_10324_39682_cancer_12182.png,0,1,0,0
+1125,3812,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 260.png,0,0,1,0
+1126,1965,tissue_classification/cancer/TCGA-B8-4154_20434_23573_cancer_11993.png,0,1,0,0
+1127,4864,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 75.png,0,0,0,1
+1128,2470,tissue_classification/cancer/TCGA-CJ-4641_33681_33924_cancer_11692.png,0,1,0,0
+1129,1069,tissue_classification/cancer/TCGA-B0-5691_24828_17422_cancer_11189.png,0,1,0,0
+1130,1766,tissue_classification/cancer/TCGA-B4-5843_26916_33172_cancer_10023.png,0,1,0,0
+1131,2426,tissue_classification/cancer/TCGA-BP-4977_120279_58122_cancer_4928.png,0,1,0,0
+1132,3638,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 117.png,0,0,1,0
+1133,2247,tissue_classification/cancer/TCGA-B8-A54K_168658_31304_cancer_5820.png,0,1,0,0
+1134,2067,tissue_classification/cancer/TCGA-B8-5546_103099_29194_cancer_2461.png,0,1,0,0
+1135,1987,tissue_classification/cancer/TCGA-B8-4154_20734_24773_cancer_12016.png,0,1,0,0
+1136,4918,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 39.png,0,0,0,1
+1137,1693,tissue_classification/cancer/TCGA-B0-5698_144063_25723_cancer_7608.png,0,1,0,0
+1138,4317,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 767.png,0,0,1,0
+1139,1838,tissue_classification/cancer/TCGA-B4-5843_28416_32572_cancer_10095.png,0,1,0,0
+1140,178,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 150.png,1,0,0,0
+1141,4383,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 833.png,0,0,1,0
+1142,3476,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 45.png,0,0,1,0
+1143,5219,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 149.png,0,0,0,1
+1144,605,tissue_classification/cancer/TCGA-B0-4706_20477_14454_cancer_10460.png,0,1,0,0
+1145,4729,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 31.png,0,0,0,1
+1146,2146,tissue_classification/cancer/TCGA-B8-5546_106099_28894_cancer_2540.png,0,1,0,0
+1147,3606,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 168.png,0,0,1,0
+1148,3320,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 72.png,0,0,1,0
+1149,298,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 115.png,0,1,0,0
+1150,3893,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 341.png,0,0,1,0
+1151,3305,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 57.png,0,0,1,0
+1152,2641,tissue_classification/cancer/TCGA-CZ-4861_14055_12526_cancer_10168.png,0,1,0,0
+1153,215,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_BloodTile 146.png,0,1,0,0
+1154,2870,tissue_classification/normal/TCGA-CJ-6032_78200_26495_normal_2457.png,0,0,1,0
+1155,943,tissue_classification/cancer/TCGA-B0-5399_98258_46574_cancer_10840.png,0,1,0,0
+1156,269,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 153.png,0,1,0,0
+1157,4689,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 48.png,0,0,0,1
+1158,4537,tissue_classification/stroma/TCGA-T7-A92I_61992_109433_other_2906.png,0,0,0,1
+1159,702,tissue_classification/cancer/TCGA-B0-4713_38266_21433_cancer_10635.png,0,1,0,0
+1160,1908,tissue_classification/cancer/TCGA-B8-4154_19234_26873_cancer_11929.png,0,1,0,0
+1161,3709,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 157.png,0,0,1,0
+1162,413,tissue_classification/cancer/TCGA-A3-3331_13659_27366_cancer_10708.png,0,1,0,0
+1163,3996,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 444.png,0,0,1,0
+1164,4564,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 13.png,0,0,0,1
+1165,718,tissue_classification/cancer/TCGA-B0-4713_38266_26233_cancer_10651.png,0,1,0,0
+1166,5429,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 100.png,0,0,0,1
+1167,5261,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 191.png,0,0,0,1
+1168,4868,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 79.png,0,0,0,1
+1169,2842,tissue_classification/normal/TCGA-CJ-4918_29256_34754_normal_2173.png,0,0,1,0
+1170,1718,tissue_classification/cancer/TCGA-B0-5698_144363_27523_cancer_7633.png,0,1,0,0
+1171,2231,tissue_classification/cancer/TCGA-B8-A54K_168358_30404_cancer_5804.png,0,1,0,0
+1172,294,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 111.png,0,1,0,0
+1173,26,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_OtherTile 74.png,1,0,0,0
+1174,3344,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 96.png,0,0,1,0
+1175,1613,tissue_classification/cancer/TCGA-B0-5698_142863_24523_cancer_7528.png,0,1,0,0
+1176,3978,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 426.png,0,0,1,0
+1177,5482,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 152.png,0,0,0,1
+1178,2657,tissue_classification/cancer/TCGA-CZ-5453_80064_34721_cancer_10349.png,0,1,0,0
+1179,3375,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 37.png,0,0,1,0
+1180,339,tissue_classification/cancer/TCGA-6D-AA2E_35113_25146_cancer_10276.png,0,1,0,0
+1181,5351,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 184.png,0,0,0,1
+1182,4412,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 862.png,0,0,1,0
+1183,2105,tissue_classification/cancer/TCGA-B8-5546_104599_28594_cancer_2499.png,0,1,0,0
+1184,2157,tissue_classification/cancer/TCGA-B8-5546_106399_29794_cancer_2551.png,0,1,0,0
+1185,5088,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 69.png,0,0,0,1
+1186,3734,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 182.png,0,0,1,0
+1187,5097,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 78.png,0,0,0,1
+1188,4409,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 859.png,0,0,1,0
+1189,4994,tissue_classification/stroma/TCGA-B8-4621_116495_65170_stroma_2409.png,0,0,0,1
+1190,2446,tissue_classification/cancer/TCGA-BP-5180_36638_33731_cancer_10371.png,0,1,0,0
+1191,166,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 138.png,1,0,0,0
+1192,5605,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 275.png,0,0,0,1
+1193,4617,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 66.png,0,0,0,1
+1194,3867,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 315.png,0,0,1,0
+1195,2027,tissue_classification/cancer/TCGA-B8-4154_21334_25373_cancer_12056.png,0,1,0,0
+1196,4008,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 456.png,0,0,1,0
+1197,834,tissue_classification/cancer/TCGA-B0-5399_26182_39892_cancer_10979.png,0,1,0,0
+1198,660,tissue_classification/cancer/TCGA-B0-4713_37366_25633_cancer_10592.png,0,1,0,0
+1199,4763,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 65.png,0,0,0,1
+1200,3420,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 82.png,0,0,1,0
+1201,4619,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 68.png,0,0,0,1
+1202,639,tissue_classification/cancer/TCGA-B0-4713_37066_25033_cancer_10571.png,0,1,0,0
+1203,3764,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 212.png,0,0,1,0
+1204,5402,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 235.png,0,0,0,1
+1205,2518,tissue_classification/cancer/TCGA-CJ-4641_35481_33924_cancer_11740.png,0,1,0,0
+1206,416,tissue_classification/cancer/TCGA-A3-3331_13659_28266_cancer_10711.png,0,1,0,0
+1207,3401,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 63.png,0,0,1,0
+1208,1254,tissue_classification/cancer/TCGA-B0-5691_28728_18622_cancer_11374.png,0,1,0,0
+1209,1397,tissue_classification/cancer/TCGA-B0-5691_91107_50277_cancer_11516.png,0,1,0,0
+1210,2,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 88.png,1,0,0,0
+1211,2918,tissue_classification/normal/TCGA-EU-5907_10455_54597_normal_1854.png,0,0,1,0
+1212,2266,tissue_classification/cancer/TCGA-B8-A54K_169258_29504_cancer_5840.png,0,1,0,0
+1213,144,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 113.png,1,0,0,0
+1214,238,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 122.png,0,1,0,0
+1215,2418,tissue_classification/cancer/TCGA-BP-4766_54793_35579_cancer_10697.png,0,1,0,0
+1216,4474,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 146.png,0,0,1,0
+1217,5140,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 121.png,0,0,0,1
+1218,4151,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 599.png,0,0,1,0
+1219,4698,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 57.png,0,0,0,1
+1220,1218,tissue_classification/cancer/TCGA-B0-5691_27828_20122_cancer_11338.png,0,1,0,0
+1221,3811,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 259.png,0,0,1,0
+1222,4277,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 726.png,0,0,1,0
+1223,325,tissue_classification/cancer/TCGA-6D-AA2E_34513_25146_cancer_10262.png,0,1,0,0
+1224,3341,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 93.png,0,0,1,0
+1225,3351,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 13.png,0,0,1,0
+1226,1601,tissue_classification/cancer/TCGA-B0-5698_142563_26623_cancer_7516.png,0,1,0,0
+1227,958,tissue_classification/cancer/TCGA-B0-5399_98558_45374_cancer_10855.png,0,1,0,0
+1228,2525,tissue_classification/cancer/TCGA-CJ-4641_35781_33624_cancer_11747.png,0,1,0,0
+1229,1126,tissue_classification/cancer/TCGA-B0-5691_26028_17722_cancer_11246.png,0,1,0,0
+1230,4969,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 90.png,0,0,0,1
+1231,3831,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 279.png,0,0,1,0
+1232,5317,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 150.png,0,0,0,1
+1233,4430,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 102.png,0,0,1,0
+1234,2705,tissue_classification/cancer/TCGA-DV-5566_60956_32532_cancer_10504.png,0,1,0,0
+1235,3739,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 187.png,0,0,1,0
+1236,3296,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 48.png,0,0,1,0
+1237,305,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 122.png,0,1,0,0
+1238,1290,tissue_classification/cancer/TCGA-B0-5691_89007_49677_cancer_11409.png,0,1,0,0
+1239,2047,tissue_classification/cancer/TCGA-B8-5159_30145_11127_cancer_11019.png,0,1,0,0
+1240,3915,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 363.png,0,0,1,0
+1241,28,tissue_classification/blood/TCGA-A3-3324_14110_24725_cancer_9869.png,1,0,0,0
+1242,3459,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 28.png,0,0,1,0
+1243,1723,tissue_classification/cancer/TCGA-B0-5698_144663_23323_cancer_7638.png,0,1,0,0
+1244,254,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 138.png,0,1,0,0
+1245,3949,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 397.png,0,0,1,0
+1246,4470,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 142.png,0,0,1,0
+1247,3852,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 300.png,0,0,1,0
+1248,1225,tissue_classification/cancer/TCGA-B0-5691_28128_18022_cancer_11345.png,0,1,0,0
+1249,2648,tissue_classification/cancer/TCGA-CZ-5453_79164_34421_cancer_10339.png,0,1,0,0
+1250,1239,tissue_classification/cancer/TCGA-B0-5691_28428_18022_cancer_11359.png,0,1,0,0
+1251,3038,tissue_classification/normal/TCGA-T7-A92I_43648_81045_normal_6290.png,0,0,1,0
+1252,1833,tissue_classification/cancer/TCGA-B4-5843_28416_31072_cancer_10090.png,0,1,0,0
+1253,2592,tissue_classification/cancer/TCGA-CJ-4641_38481_32424_cancer_11815.png,0,1,0,0
+1254,2049,tissue_classification/cancer/TCGA-B8-5159_30445_10527_cancer_11021.png,0,1,0,0
+1255,299,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 116.png,0,1,0,0
+1256,4223,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 671.png,0,0,1,0
+1257,1068,tissue_classification/cancer/TCGA-B0-5691_24528_21322_cancer_11188.png,0,1,0,0
+1258,673,tissue_classification/cancer/TCGA-B0-4713_37666_23833_cancer_10605.png,0,1,0,0
+1259,1065,tissue_classification/cancer/TCGA-B0-5691_24528_20422_cancer_11185.png,0,1,0,0
+1260,809,tissue_classification/cancer/TCGA-B0-5399_25282_41392_cancer_10954.png,0,1,0,0
+1261,2371,tissue_classification/cancer/TCGA-BP-4759_34232_56585_cancer_11069.png,0,1,0,0
+1262,2961,tissue_classification/normal/TCGA-T7-A92I_41848_81345_normal_6213.png,0,0,1,0
+1263,2068,tissue_classification/cancer/TCGA-B8-5546_103099_29494_cancer_2462.png,0,1,0,0
+1264,3692,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 140.png,0,0,1,0
+1265,4983,tissue_classification/stroma/TCGA-B8-4154_19534_22673_cancer_11933.png,0,0,0,1
+1266,2740,tissue_classification/cancer/TCGA-DV-5569_97504_46802_cancer_10126.png,0,1,0,0
+1267,4269,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 718.png,0,0,1,0
+1268,5396,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 229.png,0,0,0,1
+1269,159,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 130.png,1,0,0,0
+1270,548,tissue_classification/cancer/TCGA-AK-3430_11224_39682_cancer_12217.png,0,1,0,0
+1271,1790,tissue_classification/cancer/TCGA-B4-5843_27516_31372_cancer_10047.png,0,1,0,0
+1272,4136,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 584.png,0,0,1,0
+1273,3261,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 13.png,0,0,1,0
+1274,2634,tissue_classification/cancer/TCGA-CZ-4861_13155_12526_cancer_10156.png,0,1,0,0
+1275,2160,tissue_classification/cancer/TCGA-B8-5546_106699_28294_cancer_2554.png,0,1,0,0
+1276,4723,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 25.png,0,0,0,1
+1277,2676,tissue_classification/cancer/TCGA-CZ-5988_62876_21790_cancer_10247.png,0,1,0,0
+1278,5018,tissue_classification/stroma/TCGA-BP-4977_119979_57522_cancer_4923.png,0,0,0,1
+1279,5280,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 113.png,0,0,0,1
+1280,329,tissue_classification/cancer/TCGA-6D-AA2E_34813_24246_cancer_10266.png,0,1,0,0
+1281,2134,tissue_classification/cancer/TCGA-B8-5546_105799_27694_cancer_2528.png,0,1,0,0
+1282,1910,tissue_classification/cancer/TCGA-B8-4154_19234_27473_cancer_11931.png,0,1,0,0
+1283,4321,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 771.png,0,0,1,0
+1284,2874,tissue_classification/normal/TCGA-CZ-4861_43075_10786_normal_4941.png,0,0,1,0
+1285,1430,tissue_classification/cancer/TCGA-B0-5691_92007_46677_cancer_11549.png,0,1,0,0
+1286,4369,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 819.png,0,0,1,0
+1287,618,tissue_classification/cancer/TCGA-B0-4713_36766_24433_cancer_10550.png,0,1,0,0
+1288,1431,tissue_classification/cancer/TCGA-B0-5691_92007_46977_cancer_11550.png,0,1,0,0
+1289,2445,tissue_classification/cancer/TCGA-BP-5174_33664_26361_cancer_11051.png,0,1,0,0
+1290,3052,tissue_classification/normal/TCGA-T7-A92I_44248_77745_normal_6305.png,0,0,1,0
+1291,3493,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 62.png,0,0,1,0
+1292,3842,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 290.png,0,0,1,0
+1293,1522,tissue_classification/cancer/TCGA-B0-5691_93807_48477_cancer_11641.png,0,1,0,0
+1294,3276,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 28.png,0,0,1,0
+1295,3168,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 10.png,0,0,1,0
+1296,5427,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 260.png,0,0,0,1
+1297,2831,tissue_classification/normal/TCGA-CJ-4918_29256_31454_normal_2162.png,0,0,1,0
+1298,3055,tissue_classification/normal/TCGA-T7-A92I_44248_78645_normal_6308.png,0,0,1,0
+1299,2738,tissue_classification/cancer/TCGA-DV-5566_61556_34932_cancer_10538.png,0,1,0,0
+1300,955,tissue_classification/cancer/TCGA-B0-5399_98258_50174_cancer_10852.png,0,1,0,0
+1301,1924,tissue_classification/cancer/TCGA-B8-4154_19534_26573_cancer_11946.png,0,1,0,0
+1302,334,tissue_classification/cancer/TCGA-6D-AA2E_34813_25746_cancer_10271.png,0,1,0,0
+1303,3067,tissue_classification/normal/TCGA-T7-A92I_44548_81345_normal_6330.png,0,0,1,0
+1304,2927,tissue_classification/normal/TCGA-EU-5907_10755_51897_normal_1863.png,0,0,1,0
+1305,3571,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 133.png,0,0,1,0
+1306,2435,tissue_classification/cancer/TCGA-BP-5174_33064_25461_cancer_11040.png,0,1,0,0
+1307,4294,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 744.png,0,0,1,0
+1308,4003,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 451.png,0,0,1,0
+1309,3456,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 25.png,0,0,1,0
+1310,2056,tissue_classification/cancer/TCGA-B8-5159_31045_10827_cancer_11030.png,0,1,0,0
+1311,3337,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 89.png,0,0,1,0
+1312,223,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 107.png,0,1,0,0
+1313,3465,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 34.png,0,0,1,0
+1314,2718,tissue_classification/cancer/TCGA-DV-5566_61256_32832_cancer_10518.png,0,1,0,0
+1315,1330,tissue_classification/cancer/TCGA-B0-5691_89907_48177_cancer_11449.png,0,1,0,0
+1316,4878,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 89.png,0,0,0,1
+1317,2130,tissue_classification/cancer/TCGA-B8-5546_105499_28894_cancer_2524.png,0,1,0,0
+1318,4370,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 820.png,0,0,1,0
+1319,1441,tissue_classification/cancer/TCGA-B0-5691_92007_50277_cancer_11560.png,0,1,0,0
+1320,5068,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 49.png,0,0,0,1
+1321,3269,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 21.png,0,0,1,0
+1322,4212,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 660.png,0,0,1,0
+1323,2800,tissue_classification/normal/TCGA-CJ-4918_28356_35654_normal_2131.png,0,0,1,0
+1324,543,tissue_classification/cancer/TCGA-AK-3430_11224_38182_cancer_12212.png,0,1,0,0
+1325,4637,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 86.png,0,0,0,1
+1326,4786,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 88.png,0,0,0,1
+1327,2009,tissue_classification/cancer/TCGA-B8-4154_21034_25673_cancer_12038.png,0,1,0,0
+1328,711,tissue_classification/cancer/TCGA-B0-4713_38266_24133_cancer_10644.png,0,1,0,0
+1329,1684,tissue_classification/cancer/TCGA-B0-5698_144063_23023_cancer_7599.png,0,1,0,0
+1330,3653,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 101.png,0,0,1,0
+1331,2200,tissue_classification/cancer/TCGA-B8-5546_108199_28594_cancer_2594.png,0,1,0,0
+1332,3323,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 75.png,0,0,1,0
+1333,1700,tissue_classification/cancer/TCGA-B0-5698_144363_22123_cancer_7615.png,0,1,0,0
+1334,2261,tissue_classification/cancer/TCGA-B8-A54K_168958_31904_cancer_5835.png,0,1,0,0
+1335,5206,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 136.png,0,0,0,1
+1336,2154,tissue_classification/cancer/TCGA-B8-5546_106399_28894_cancer_2548.png,0,1,0,0
+1337,1664,tissue_classification/cancer/TCGA-B0-5698_143763_22723_cancer_7579.png,0,1,0,0
+1338,3596,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 158.png,0,0,1,0
+1339,1633,tissue_classification/cancer/TCGA-B0-5698_143163_24823_cancer_7548.png,0,1,0,0
+1340,2789,tissue_classification/normal/TCGA-CJ-4918_28356_32054_normal_2120.png,0,0,1,0
+1341,1103,tissue_classification/cancer/TCGA-B0-5691_25428_19222_cancer_11223.png,0,1,0,0
+1342,93,tissue_classification/blood/TCGA-BP-4981_67004_10605_cancer_8896.png,1,0,0,0
+1343,2163,tissue_classification/cancer/TCGA-B8-5546_106699_29194_cancer_2557.png,0,1,0,0
+1344,5188,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 118.png,0,0,0,1
+1345,1096,tissue_classification/cancer/TCGA-B0-5691_25128_21322_cancer_11216.png,0,1,0,0
+1346,3741,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 189.png,0,0,1,0
+1347,73,tissue_classification/blood/TCGA-B2-4102_152280_5532_cancer_9478.png,1,0,0,0
+1348,2609,tissue_classification/cancer/TCGA-CZ-4857_27467_27195_cancer_11854.png,0,1,0,0
+1349,2095,tissue_classification/cancer/TCGA-B8-5546_104299_27994_cancer_2489.png,0,1,0,0
+1350,2244,tissue_classification/cancer/TCGA-B8-A54K_168658_30404_cancer_5817.png,0,1,0,0
+1351,4263,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 712.png,0,0,1,0
+1352,2539,tissue_classification/cancer/TCGA-CJ-4641_36381_33024_cancer_11761.png,0,1,0,0
+1353,2877,tissue_classification/normal/TCGA-CZ-5460_54250_41087_normal_2433.png,0,0,1,0
+1354,2209,tissue_classification/cancer/TCGA-B8-A54D_11735_17913_cancer_11822.png,0,1,0,0
+1355,4568,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 17.png,0,0,0,1
+1356,4455,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 127.png,0,0,1,0
+1357,3634,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 113.png,0,0,1,0
+1358,3512,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 81.png,0,0,1,0
+1359,590,tissue_classification/cancer/TCGA-AK-3450_43036_21827_cancer_10239.png,0,1,0,0
+1360,3368,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 30.png,0,0,1,0
+1361,1186,tissue_classification/cancer/TCGA-B0-5691_27228_18922_cancer_11306.png,0,1,0,0
+1362,152,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 122.png,1,0,0,0
+1363,4881,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 92.png,0,0,0,1
+1364,2128,tissue_classification/cancer/TCGA-B8-5546_105499_28294_cancer_2522.png,0,1,0,0
+1365,850,tissue_classification/cancer/TCGA-B0-5399_26482_41692_cancer_10995.png,0,1,0,0
+1366,3367,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 29.png,0,0,1,0
+1367,4540,tissue_classification/stroma/TCGA-T7-A92I_61992_110333_other_2909.png,0,0,0,1
+1368,1227,tissue_classification/cancer/TCGA-B0-5691_28128_18622_cancer_11347.png,0,1,0,0
+1369,2617,tissue_classification/cancer/TCGA-CZ-4857_37068_25216_cancer_11869.png,0,1,0,0
+1370,1045,tissue_classification/cancer/TCGA-B0-5691_24228_18622_cancer_11165.png,0,1,0,0
+1371,2558,tissue_classification/cancer/TCGA-CJ-4641_36981_33924_cancer_11780.png,0,1,0,0
+1372,3460,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 29.png,0,0,1,0
+1373,1683,tissue_classification/cancer/TCGA-B0-5698_144063_22723_cancer_7598.png,0,1,0,0
+1374,2026,tissue_classification/cancer/TCGA-B8-4154_21334_25073_cancer_12055.png,0,1,0,0
+1375,1221,tissue_classification/cancer/TCGA-B0-5691_27828_21022_cancer_11341.png,0,1,0,0
+1376,884,tissue_classification/cancer/TCGA-B0-5399_97358_45974_cancer_10781.png,0,1,0,0
+1377,2080,tissue_classification/cancer/TCGA-B8-5546_103699_28294_cancer_2474.png,0,1,0,0
+1378,5488,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 158.png,0,0,0,1
+1379,5356,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 189.png,0,0,0,1
+1380,1986,tissue_classification/cancer/TCGA-B8-4154_20734_24473_cancer_12015.png,0,1,0,0
+1381,529,tissue_classification/cancer/TCGA-AK-3430_10924_37582_cancer_12198.png,0,1,0,0
+1382,4055,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 503.png,0,0,1,0
+1383,1787,tissue_classification/cancer/TCGA-B4-5843_27516_30472_cancer_10044.png,0,1,0,0
+1384,50,tissue_classification/blood/TCGA-B0-4701_17244_32350_cancer_6485.png,1,0,0,0
+1385,3990,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 438.png,0,0,1,0
+1386,1263,tissue_classification/cancer/TCGA-B0-5691_28728_21322_cancer_11383.png,0,1,0,0
+1387,3298,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 50.png,0,0,1,0
+1388,875,tissue_classification/cancer/TCGA-B0-5399_97058_48974_cancer_10772.png,0,1,0,0
+1389,3404,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 66.png,0,0,1,0
+1390,5142,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 123.png,0,0,0,1
+1391,5404,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 237.png,0,0,0,1
+1392,3094,tissue_classification/normal/TCGA-T7-A92I_45448_81345_normal_6365.png,0,0,1,0
+1393,1742,tissue_classification/cancer/TCGA-B4-5377_31123_43352_cancer_10135.png,0,1,0,0
+1394,3531,tissue_classification/normal/TCGA-6D-AA2E_37513_25446_cancer_10333.png,0,0,1,0
+1395,3411,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 73.png,0,0,1,0
+1396,1343,tissue_classification/cancer/TCGA-B0-5691_90207_47577_cancer_11462.png,0,1,0,0
+1397,4069,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 517.png,0,0,1,0
+1398,4197,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 645.png,0,0,1,0
+1399,5553,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 223.png,0,0,0,1
+1400,5560,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 230.png,0,0,0,1
+1401,897,tissue_classification/cancer/TCGA-B0-5399_97358_49874_cancer_10794.png,0,1,0,0
+1402,3547,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 109.png,0,0,1,0
+1403,5035,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 16.png,0,0,0,1
+1404,5536,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 206.png,0,0,0,1
+1405,3876,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 324.png,0,0,1,0
+1406,4569,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 18.png,0,0,0,1
+1407,5296,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 129.png,0,0,0,1
+1408,2207,tissue_classification/cancer/TCGA-B8-5546_108499_28894_cancer_2601.png,0,1,0,0
+1409,2720,tissue_classification/cancer/TCGA-DV-5566_61256_33432_cancer_10520.png,0,1,0,0
+1410,2864,tissue_classification/normal/TCGA-CJ-4923_20269_44723_normal_6198.png,0,0,1,0
+1411,5411,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 244.png,0,0,0,1
+1412,4925,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 46.png,0,0,0,1
+1413,4144,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 592.png,0,0,1,0
+1414,444,tissue_classification/cancer/TCGA-A3-3331_21407_31078_cancer_10739.png,0,1,0,0
+1415,531,tissue_classification/cancer/TCGA-AK-3430_10924_38182_cancer_12200.png,0,1,0,0
+1416,1801,tissue_classification/cancer/TCGA-B4-5843_27816_30172_cancer_10058.png,0,1,0,0
+1417,2404,tissue_classification/cancer/TCGA-BP-4759_35132_56885_cancer_11106.png,0,1,0,0
+1418,3332,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 84.png,0,0,1,0
+1419,4911,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 32.png,0,0,0,1
+1420,5367,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 200.png,0,0,0,1
+1421,2587,tissue_classification/cancer/TCGA-CJ-4641_38181_33324_cancer_11810.png,0,1,0,0
+1422,3610,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 172.png,0,0,1,0
+1423,4268,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 717.png,0,0,1,0
+1424,2895,tissue_classification/normal/TCGA-EU-5907_10155_53097_normal_1831.png,0,0,1,0
+1425,1905,tissue_classification/cancer/TCGA-B8-4154_19234_25973_cancer_11926.png,0,1,0,0
+1426,1477,tissue_classification/cancer/TCGA-B0-5691_92907_48477_cancer_11596.png,0,1,0,0
+1427,2636,tissue_classification/cancer/TCGA-CZ-4861_13455_12526_cancer_10160.png,0,1,0,0
+1428,4074,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 522.png,0,0,1,0
+1429,1358,tissue_classification/cancer/TCGA-B0-5691_90507_47577_cancer_11477.png,0,1,0,0
+1430,5218,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 148.png,0,0,0,1
+1431,3179,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 21.png,0,0,1,0
+1432,1446,tissue_classification/cancer/TCGA-B0-5691_92307_47877_cancer_11565.png,0,1,0,0
+1433,3285,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 37.png,0,0,1,0
+1434,4855,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 66.png,0,0,0,1
+1435,20,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_BloodTile 16.png,1,0,0,0
+1436,3013,tissue_classification/normal/TCGA-T7-A92I_43048_81345_normal_6265.png,0,0,1,0
+1437,4780,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 82.png,0,0,0,1
+1438,3650,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 129.png,0,0,1,0
+1439,2285,tissue_classification/cancer/TCGA-B8-A54K_169558_31304_cancer_5859.png,0,1,0,0
+1440,2683,tissue_classification/cancer/TCGA-DV-5566_60056_34332_cancer_10480.png,0,1,0,0
+1441,5114,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 95.png,0,0,0,1
+1442,1347,tissue_classification/cancer/TCGA-B0-5691_90207_48777_cancer_11466.png,0,1,0,0
+1443,3246,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 88.png,0,0,1,0
+1444,2923,tissue_classification/normal/TCGA-EU-5907_10455_56097_normal_1859.png,0,0,1,0
+1445,789,tissue_classification/cancer/TCGA-B0-5399_24682_40492_cancer_10934.png,0,1,0,0
+1446,546,tissue_classification/cancer/TCGA-AK-3430_11224_39082_cancer_12215.png,0,1,0,0
+1447,4486,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 158.png,0,0,1,0
+1448,2615,tissue_classification/cancer/TCGA-CZ-4857_36768_26116_cancer_11866.png,0,1,0,0
+1449,1969,tissue_classification/cancer/TCGA-B8-4154_20434_24773_cancer_11997.png,0,1,0,0
+1450,4741,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 43.png,0,0,0,1
+1451,323,tissue_classification/cancer/TCGA-6D-AA2E_34513_24546_cancer_10260.png,0,1,0,0
+1452,2151,tissue_classification/cancer/TCGA-B8-5546_106399_27994_cancer_2545.png,0,1,0,0
+1453,948,tissue_classification/cancer/TCGA-B0-5399_98258_48074_cancer_10845.png,0,1,0,0
+1454,4384,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 834.png,0,0,1,0
+1455,4186,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 634.png,0,0,1,0
+1456,442,tissue_classification/cancer/TCGA-A3-3331_21407_30478_cancer_10737.png,0,1,0,0
+1457,779,tissue_classification/cancer/TCGA-B0-5399_24382_40192_cancer_10924.png,0,1,0,0
+1458,2805,tissue_classification/normal/TCGA-CJ-4918_28656_32354_normal_2136.png,0,0,1,0
+1459,2044,tissue_classification/cancer/TCGA-B8-5159_30145_10227_cancer_11016.png,0,1,0,0
+1460,664,tissue_classification/cancer/TCGA-B0-4713_37666_21133_cancer_10596.png,0,1,0,0
+1461,4201,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 649.png,0,0,1,0
+1462,3182,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 24.png,0,0,1,0
+1463,3793,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 241.png,0,0,1,0
+1464,4749,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 51.png,0,0,0,1
+1465,3605,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 167.png,0,0,1,0
+1466,4129,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 577.png,0,0,1,0
+1467,1062,tissue_classification/cancer/TCGA-B0-5691_24528_19522_cancer_11182.png,0,1,0,0
+1468,4313,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 763.png,0,0,1,0
+1469,87,tissue_classification/blood/TCGA-BP-4174_65432_23950_normal_3306.png,1,0,0,0
+1470,771,tissue_classification/cancer/TCGA-B0-5399_24082_40792_cancer_10916.png,0,1,0,0
+1471,1710,tissue_classification/cancer/TCGA-B0-5698_144363_25123_cancer_7625.png,0,1,0,0
+1472,2417,tissue_classification/cancer/TCGA-BP-4759_36332_58985_cancer_11128.png,0,1,0,0
+1473,5191,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 121.png,0,0,0,1
+1474,1716,tissue_classification/cancer/TCGA-B0-5698_144363_26923_cancer_7631.png,0,1,0,0
+1475,947,tissue_classification/cancer/TCGA-B0-5399_98258_47774_cancer_10844.png,0,1,0,0
+1476,4493,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 165.png,0,0,1,0
+1477,4451,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 123.png,0,0,1,0
+1478,1036,tissue_classification/cancer/TCGA-B0-5691_23928_20122_cancer_11156.png,0,1,0,0
+1479,4175,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 623.png,0,0,1,0
+1480,1776,tissue_classification/cancer/TCGA-B4-5843_27216_31672_cancer_10033.png,0,1,0,0
+1481,3897,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 345.png,0,0,1,0
+1482,2605,tissue_classification/cancer/TCGA-CJ-4913_10800_43179_cancer_11851.png,0,1,0,0
+1483,3546,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 108.png,0,0,1,0
+1484,4701,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 60.png,0,0,0,1
+1485,3533,tissue_classification/normal/TCGA-B0-5699_31961_63405_cancer_12252.png,0,0,1,0
+1486,2400,tissue_classification/cancer/TCGA-BP-4759_34832_58685_cancer_11100.png,0,1,0,0
+1487,308,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_TumorTile 126.png,0,1,0,0
+1488,3279,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 31.png,0,0,1,0
+1489,3636,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 115.png,0,0,1,0
+1490,1377,tissue_classification/cancer/TCGA-B0-5691_90807_48777_cancer_11496.png,0,1,0,0
+1491,2498,tissue_classification/cancer/TCGA-CJ-4641_34881_32724_cancer_11720.png,0,1,0,0
+1492,126,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 133.png,1,0,0,0
+1493,1881,tissue_classification/cancer/TCGA-B8-4154_18934_23873_cancer_11902.png,0,1,0,0
+1494,4775,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 77.png,0,0,0,1
+1495,1244,tissue_classification/cancer/TCGA-B0-5691_28428_19822_cancer_11364.png,0,1,0,0
+1496,833,tissue_classification/cancer/TCGA-B0-5399_26182_39592_cancer_10978.png,0,1,0,0
+1497,823,tissue_classification/cancer/TCGA-B0-5399_25882_39592_cancer_10968.png,0,1,0,0
+1498,3694,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 142.png,0,0,1,0
+1499,966,tissue_classification/cancer/TCGA-B0-5399_98558_47774_cancer_10863.png,0,1,0,0
+1500,1795,tissue_classification/cancer/TCGA-B4-5843_27516_32872_cancer_10052.png,0,1,0,0
+1501,1279,tissue_classification/cancer/TCGA-B0-5691_88707_50877_cancer_11398.png,0,1,0,0
+1502,383,tissue_classification/cancer/TCGA-6D-AA2E_36913_25746_cancer_10320.png,0,1,0,0
+1503,1482,tissue_classification/cancer/TCGA-B0-5691_92907_49977_cancer_11601.png,0,1,0,0
+1504,5237,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 167.png,0,0,0,1
+1505,1737,tissue_classification/cancer/TCGA-B0-5698_144663_27523_cancer_7652.png,0,1,0,0
+1506,3427,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 89.png,0,0,1,0
+1507,695,tissue_classification/cancer/TCGA-B0-4713_37966_25033_cancer_10628.png,0,1,0,0
+1508,3555,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 117.png,0,0,1,0
+1509,5586,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 256.png,0,0,0,1
+1510,3485,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 54.png,0,0,1,0
+1511,5234,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 164.png,0,0,0,1
+1512,2480,tissue_classification/cancer/TCGA-CJ-4641_34281_32124_cancer_11702.png,0,1,0,0
+1513,257,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 141.png,0,1,0,0
+1514,1870,tissue_classification/cancer/TCGA-B8-4154_18634_25973_cancer_11890.png,0,1,0,0
+1515,525,tissue_classification/cancer/TCGA-AK-3430_10624_39982_cancer_12194.png,0,1,0,0
+1516,1161,tissue_classification/cancer/TCGA-B0-5691_26628_19822_cancer_11281.png,0,1,0,0
+1517,2414,tissue_classification/cancer/TCGA-BP-4759_36332_56285_cancer_11125.png,0,1,0,0
+1518,4830,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 41.png,0,0,0,1
+1519,1255,tissue_classification/cancer/TCGA-B0-5691_28728_18922_cancer_11375.png,0,1,0,0
+1520,5583,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 253.png,0,0,0,1
+1521,117,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 113.png,1,0,0,0
+1522,2369,tissue_classification/cancer/TCGA-BP-4759_34232_55985_cancer_11067.png,0,1,0,0
+1523,3538,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 100.png,0,0,1,0
+1524,5550,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 220.png,0,0,0,1
+1525,273,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 157.png,0,1,0,0
+1526,1020,tissue_classification/cancer/TCGA-B0-5691_23628_19522_cancer_11140.png,0,1,0,0
+1527,1228,tissue_classification/cancer/TCGA-B0-5691_28128_18922_cancer_11348.png,0,1,0,0
+1528,4404,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 854.png,0,0,1,0
+1529,405,tissue_classification/cancer/TCGA-A3-3308_23894_31754_cancer_11845.png,0,1,0,0
+1530,5548,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 218.png,0,0,0,1
+1531,3979,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 427.png,0,0,1,0
+1532,5319,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 152.png,0,0,0,1
+1533,5370,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 203.png,0,0,0,1
+1534,4811,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 22.png,0,0,0,1
+1535,3371,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 33.png,0,0,1,0
+1536,997,tissue_classification/cancer/TCGA-B0-5399_99158_45674_cancer_10894.png,0,1,0,0
+1537,1814,tissue_classification/cancer/TCGA-B4-5843_28116_29872_cancer_10071.png,0,1,0,0
+1538,1286,tissue_classification/cancer/TCGA-B0-5691_89007_48477_cancer_11405.png,0,1,0,0
+1539,3173,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 15.png,0,0,1,0
+1540,5015,tissue_classification/stroma/TCGA-BP-4759_36332_55985_cancer_11124.png,0,0,0,1
+1541,2905,tissue_classification/normal/TCGA-EU-5907_10155_56097_normal_1841.png,0,0,1,0
+1542,3654,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 102.png,0,0,1,0
+1543,116,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 112.png,1,0,0,0
+1544,5311,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 144.png,0,0,0,1
+1545,1671,tissue_classification/cancer/TCGA-B0-5698_143763_24823_cancer_7586.png,0,1,0,0
+1546,4482,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 154.png,0,0,1,0
+1547,2692,tissue_classification/cancer/TCGA-DV-5566_60356_34332_cancer_10489.png,0,1,0,0
+1548,390,tissue_classification/cancer/TCGA-6D-AA2E_37213_25746_cancer_10327.png,0,1,0,0
+1549,599,tissue_classification/cancer/TCGA-B0-4706_19877_14454_cancer_10454.png,0,1,0,0
+1550,5416,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 249.png,0,0,0,1
+1551,1357,tissue_classification/cancer/TCGA-B0-5691_90507_47277_cancer_11476.png,0,1,0,0
+1552,1914,tissue_classification/cancer/TCGA-B8-4154_19534_23573_cancer_11936.png,0,1,0,0
+1553,3952,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 400.png,0,0,1,0
+1554,4499,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 171.png,0,0,1,0
+1555,182,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 154.png,1,0,0,0
+1556,1212,tissue_classification/cancer/TCGA-B0-5691_27828_18322_cancer_11332.png,0,1,0,0
+1557,2385,tissue_classification/cancer/TCGA-BP-4759_34532_57185_cancer_11083.png,0,1,0,0
+1558,1537,tissue_classification/cancer/TCGA-B0-5691_94107_48477_cancer_11656.png,0,1,0,0
+1559,4578,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 27.png,0,0,0,1
+1560,2331,tissue_classification/cancer/TCGA-BP-4331_11781_23253_cancer_12241.png,0,1,0,0
+1561,278,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 163.png,0,1,0,0
+1562,5444,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 114.png,0,0,0,1
+1563,319,tissue_classification/cancer/TCGA-6D-AA2E_34213_25446_cancer_10256.png,0,1,0,0
+1564,2492,tissue_classification/cancer/TCGA-CJ-4641_34581_33324_cancer_11714.png,0,1,0,0
+1565,5150,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 131.png,0,0,0,1
+1566,2983,tissue_classification/normal/TCGA-T7-A92I_42448_80145_normal_6235.png,0,0,1,0
+1567,1774,tissue_classification/cancer/TCGA-B4-5843_27216_31072_cancer_10031.png,0,1,0,0
+1568,4970,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 91.png,0,0,0,1
+1569,256,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 140.png,0,1,0,0
+1570,3774,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 222.png,0,0,1,0
+1571,2423,tissue_classification/cancer/TCGA-BP-4977_119979_57822_cancer_4924.png,0,1,0,0
+1572,3018,tissue_classification/normal/TCGA-T7-A92I_43348_78945_normal_6270.png,0,0,1,0
+1573,2011,tissue_classification/cancer/TCGA-B8-4154_21034_26273_cancer_12040.png,0,1,0,0
+1574,5525,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 195.png,0,0,0,1
+1575,3170,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 12.png,0,0,1,0
+1576,4035,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 483.png,0,0,1,0
+1577,331,tissue_classification/cancer/TCGA-6D-AA2E_34813_24846_cancer_10268.png,0,1,0,0
+1578,560,tissue_classification/cancer/TCGA-AK-3430_11524_39982_cancer_12229.png,0,1,0,0
+1579,2604,tissue_classification/cancer/TCGA-CJ-4912_65445_40984_cancer_12235.png,0,1,0,0
+1580,3111,tissue_classification/normal/TCGA-T7-A92I_46048_79245_normal_6384.png,0,0,1,0
+1581,5146,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 127.png,0,0,0,1
+1582,4573,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 22.png,0,0,0,1
+1583,3235,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 77.png,0,0,1,0
+1584,797,tissue_classification/cancer/TCGA-B0-5399_24982_40192_cancer_10942.png,0,1,0,0
+1585,5348,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 181.png,0,0,0,1
+1586,5042,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 23.png,0,0,0,1
+1587,343,tissue_classification/cancer/TCGA-6D-AA2E_35413_24246_cancer_10280.png,0,1,0,0
+1588,5419,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 252.png,0,0,0,1
+1589,1252,tissue_classification/cancer/TCGA-B0-5691_28728_18022_cancer_11372.png,0,1,0,0
+1590,2856,tissue_classification/normal/TCGA-CJ-4918_29556_34754_normal_2189.png,0,0,1,0
+1591,3985,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 433.png,0,0,1,0
+1592,2108,tissue_classification/cancer/TCGA-B8-5546_104599_29494_cancer_2502.png,0,1,0,0
+1593,3100,tissue_classification/normal/TCGA-T7-A92I_45748_79245_normal_6371.png,0,0,1,0
+1594,359,tissue_classification/cancer/TCGA-6D-AA2E_36013_24846_cancer_10296.png,0,1,0,0
+1595,3088,tissue_classification/normal/TCGA-T7-A92I_45448_79545_normal_6359.png,0,0,1,0
+1596,4611,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 60.png,0,0,0,1
+1597,821,tissue_classification/cancer/TCGA-B0-5399_25882_38992_cancer_10966.png,0,1,0,0
+1598,2925,tissue_classification/normal/TCGA-EU-5907_10455_56697_normal_1861.png,0,0,1,0
+1599,39,tissue_classification/blood/TCGA-A3-3359_20425_37738_cancer_9252.png,1,0,0,0
+1600,5568,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 238.png,0,0,0,1
+1601,4889,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 10.png,0,0,0,1
+1602,973,tissue_classification/cancer/TCGA-B0-5399_98558_49874_cancer_10870.png,0,1,0,0
+1603,5338,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 171.png,0,0,0,1
+1604,3218,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 60.png,0,0,1,0
+1605,2886,tissue_classification/normal/TCGA-CZ-5460_55150_41087_normal_2442.png,0,0,1,0
+1606,2441,tissue_classification/cancer/TCGA-BP-5174_33364_26061_cancer_11046.png,0,1,0,0
+1607,3660,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 108.png,0,0,1,0
+1608,4004,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 452.png,0,0,1,0
+1609,3023,tissue_classification/normal/TCGA-T7-A92I_43348_80445_normal_6275.png,0,0,1,0
+1610,1736,tissue_classification/cancer/TCGA-B0-5698_144663_27223_cancer_7651.png,0,1,0,0
+1611,1640,tissue_classification/cancer/TCGA-B0-5698_143163_26923_cancer_7555.png,0,1,0,0
+1612,3047,tissue_classification/normal/TCGA-T7-A92I_43948_80145_normal_6300.png,0,0,1,0
+1613,4625,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 74.png,0,0,0,1
+1614,922,tissue_classification/cancer/TCGA-B0-5399_97958_45974_cancer_10819.png,0,1,0,0
+1615,2387,tissue_classification/cancer/TCGA-BP-4759_34532_58085_cancer_11086.png,0,1,0,0
+1616,4560,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 9.png,0,0,0,1
+1617,855,tissue_classification/cancer/TCGA-B0-5399_26782_40192_cancer_11000.png,0,1,0,0
+1618,2249,tissue_classification/cancer/TCGA-B8-A54K_168658_31904_cancer_5822.png,0,1,0,0
+1619,3312,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 64.png,0,0,1,0
+1620,1130,tissue_classification/cancer/TCGA-B0-5691_26028_18922_cancer_11250.png,0,1,0,0
+1621,4133,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 581.png,0,0,1,0
+1622,4740,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 42.png,0,0,0,1
+1623,1981,tissue_classification/cancer/TCGA-B8-4154_20734_22673_cancer_12009.png,0,1,0,0
+1624,2971,tissue_classification/normal/TCGA-T7-A92I_42148_80445_normal_6223.png,0,0,1,0
+1625,3889,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 337.png,0,0,1,0
+1626,4959,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 80.png,0,0,0,1
+1627,1058,tissue_classification/cancer/TCGA-B0-5691_24528_18322_cancer_11178.png,0,1,0,0
+1628,1730,tissue_classification/cancer/TCGA-B0-5698_144663_25423_cancer_7645.png,0,1,0,0
+1629,1164,tissue_classification/cancer/TCGA-B0-5691_26628_20722_cancer_11284.png,0,1,0,0
+1630,5465,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 135.png,0,0,0,1
+1631,4915,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 36.png,0,0,0,1
+1632,4148,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 596.png,0,0,1,0
+1633,3623,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 102.png,0,0,1,0
+1634,1531,tissue_classification/cancer/TCGA-B0-5691_94107_46677_cancer_11650.png,0,1,0,0
+1635,1298,tissue_classification/cancer/TCGA-B0-5691_89307_47577_cancer_11417.png,0,1,0,0
+1636,4014,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 462.png,0,0,1,0
+1637,949,tissue_classification/cancer/TCGA-B0-5399_98258_48374_cancer_10846.png,0,1,0,0
+1638,3282,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 34.png,0,0,1,0
+1639,583,tissue_classification/cancer/TCGA-AK-3450_42436_21827_cancer_10231.png,0,1,0,0
+1640,2142,tissue_classification/cancer/TCGA-B8-5546_106099_27694_cancer_2536.png,0,1,0,0
+1641,5123,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 104.png,0,0,0,1
+1642,2651,tissue_classification/cancer/TCGA-CZ-5453_79464_34721_cancer_10343.png,0,1,0,0
+1643,175,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 147.png,1,0,0,0
+1644,3839,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 287.png,0,0,1,0
+1645,3524,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 93.png,0,0,1,0
+1646,2557,tissue_classification/cancer/TCGA-CJ-4641_36981_33624_cancer_11779.png,0,1,0,0
+1647,5059,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 40.png,0,0,0,1
+1648,2307,tissue_classification/cancer/TCGA-B8-A54K_170158_30104_cancer_5881.png,0,1,0,0
+1649,2586,tissue_classification/cancer/TCGA-CJ-4641_38181_33024_cancer_11809.png,0,1,0,0
+1650,1040,tissue_classification/cancer/TCGA-B0-5691_23928_21322_cancer_11160.png,0,1,0,0
+1651,4553,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 2.png,0,0,0,1
+1652,5304,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 137.png,0,0,0,1
+1653,698,tissue_classification/cancer/TCGA-B0-4713_37966_25933_cancer_10631.png,0,1,0,0
+1654,4253,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 702.png,0,0,1,0
+1655,1777,tissue_classification/cancer/TCGA-B4-5843_27216_31972_cancer_10034.png,0,1,0,0
+1656,4462,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 134.png,0,0,1,0
+1657,532,tissue_classification/cancer/TCGA-AK-3430_10924_38482_cancer_12201.png,0,1,0,0
+1658,4158,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 606.png,0,0,1,0
+1659,4453,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 125.png,0,0,1,0
+1660,4658,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 17.png,0,0,0,1
+1661,636,tissue_classification/cancer/TCGA-B0-4713_37066_24133_cancer_10568.png,0,1,0,0
+1662,101,tissue_classification/blood/TCGA-CJ-4901_28753_30718_cancer_9449.png,1,0,0,0
+1663,3908,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 356.png,0,0,1,0
+1664,2889,tissue_classification/normal/TCGA-CZ-5460_55450_41087_normal_2445.png,0,0,1,0
+1665,4504,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 176.png,0,0,1,0
+1666,1604,tissue_classification/cancer/TCGA-B0-5698_142563_27523_cancer_7519.png,0,1,0,0
+1667,3360,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 22.png,0,0,1,0
+1668,1215,tissue_classification/cancer/TCGA-B0-5691_27828_19222_cancer_11335.png,0,1,0,0
+1669,2571,tissue_classification/cancer/TCGA-CJ-4641_37581_33024_cancer_11793.png,0,1,0,0
+1670,2234,tissue_classification/cancer/TCGA-B8-A54K_168358_31304_cancer_5807.png,0,1,0,0
+1671,1600,tissue_classification/cancer/TCGA-B0-5698_142563_26323_cancer_7515.png,0,1,0,0
+1672,1893,tissue_classification/cancer/TCGA-B8-4154_18934_27473_cancer_11914.png,0,1,0,0
+1673,2408,tissue_classification/cancer/TCGA-BP-4759_35432_56585_cancer_11113.png,0,1,0,0
+1674,1793,tissue_classification/cancer/TCGA-B4-5843_27516_32272_cancer_10050.png,0,1,0,0
+1675,755,tissue_classification/cancer/TCGA-B0-4713_38866_25933_cancer_10688.png,0,1,0,0
+1676,3036,tissue_classification/normal/TCGA-T7-A92I_43648_80445_normal_6288.png,0,0,1,0
+1677,1007,tissue_classification/cancer/TCGA-B0-5399_99158_48674_cancer_10904.png,0,1,0,0
+1678,2913,tissue_classification/normal/TCGA-EU-5907_10455_53097_normal_1849.png,0,0,1,0
+1679,1858,tissue_classification/cancer/TCGA-B8-4154_18634_22373_cancer_11878.png,0,1,0,0
+1680,2654,tissue_classification/cancer/TCGA-CZ-5453_79764_34721_cancer_10346.png,0,1,0,0
+1681,839,tissue_classification/cancer/TCGA-B0-5399_26182_41392_cancer_10984.png,0,1,0,0
+1682,3451,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 20.png,0,0,1,0
+1683,3187,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 29.png,0,0,1,0
+1684,5556,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 226.png,0,0,0,1
+1685,1303,tissue_classification/cancer/TCGA-B0-5691_89307_49077_cancer_11422.png,0,1,0,0
+1686,321,tissue_classification/cancer/TCGA-6D-AA2E_34213_26046_cancer_10258.png,0,1,0,0
+1687,3738,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 186.png,0,0,1,0
+1688,2352,tissue_classification/cancer/TCGA-BP-4343_50633_29905_cancer_10450.png,0,1,0,0
+1689,3806,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 254.png,0,0,1,0
+1690,3769,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 217.png,0,0,1,0
+1691,133,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 100.png,1,0,0,0
+1692,1719,tissue_classification/cancer/TCGA-B0-5698_144663_22123_cancer_7634.png,0,1,0,0
+1693,4810,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 21.png,0,0,0,1
+1694,401,tissue_classification/cancer/TCGA-A3-3308_22394_30854_cancer_11841.png,0,1,0,0
+1695,283,tissue_classification/cancer/FIMM6_76_ML1412195.mrxs_BloodTile 118.png,0,1,0,0
+1696,4814,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 25.png,0,0,0,1
+1697,3011,tissue_classification/normal/TCGA-T7-A92I_43048_80745_normal_6263.png,0,0,1,0
+1698,2910,tissue_classification/normal/TCGA-EU-5907_10455_52197_normal_1846.png,0,0,1,0
+1699,4467,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 139.png,0,0,1,0
+1700,1331,tissue_classification/cancer/TCGA-B0-5691_89907_48477_cancer_11450.png,0,1,0,0
+1701,3435,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 97.png,0,0,1,0
+1702,5580,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 250.png,0,0,0,1
+1703,1032,tissue_classification/cancer/TCGA-B0-5691_23928_18922_cancer_11152.png,0,1,0,0
+1704,4377,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 827.png,0,0,1,0
+1705,2628,tissue_classification/cancer/TCGA-CZ-4861_12255_12526_cancer_10144.png,0,1,0,0
+1706,3657,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 105.png,0,0,1,0
+1707,2325,tissue_classification/cancer/TCGA-BP-4160_23012_50669_cancer_12304.png,0,1,0,0
+1708,3006,tissue_classification/normal/TCGA-T7-A92I_43048_79245_normal_6258.png,0,0,1,0
+1709,5153,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 134.png,0,0,0,1
+1710,17,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_BloodTile 13.png,1,0,0,0
+1711,5527,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 197.png,0,0,0,1
+1712,56,tissue_classification/blood/TCGA-B0-4701_18144_31450_cancer_6515.png,1,0,0,0
+1713,3240,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 82.png,0,0,1,0
+1714,3821,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 269.png,0,0,1,0
+1715,3449,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 18.png,0,0,1,0
+1716,3969,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 417.png,0,0,1,0
+1717,4821,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 32.png,0,0,0,1
+1718,3678,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 126.png,0,0,1,0
+1719,4431,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 103.png,0,0,1,0
+1720,3770,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 218.png,0,0,1,0
+1721,120,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 120.png,1,0,0,0
+1722,4411,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 861.png,0,0,1,0
+1723,785,tissue_classification/cancer/TCGA-B0-5399_24682_38992_cancer_10930.png,0,1,0,0
+1724,4730,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 32.png,0,0,0,1
+1725,2769,tissue_classification/cancer/TCGA-EU-5904_51748_68876_cancer_10416.png,0,1,0,0
+1726,1506,tissue_classification/cancer/TCGA-B0-5691_93507_48177_cancer_11625.png,0,1,0,0
+1727,538,tissue_classification/cancer/TCGA-AK-3430_10924_40282_cancer_12207.png,0,1,0,0
+1728,2205,tissue_classification/cancer/TCGA-B8-5546_108499_28294_cancer_2599.png,0,1,0,0
+1729,2084,tissue_classification/cancer/TCGA-B8-5546_103699_29494_cancer_2478.png,0,1,0,0
+1730,163,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 135.png,1,0,0,0
+1731,4373,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 823.png,0,0,1,0
+1732,3755,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 203.png,0,0,1,0
+1733,2750,tissue_classification/cancer/TCGA-EU-5904_50548_68876_cancer_10396.png,0,1,0,0
+1734,4762,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 64.png,0,0,0,1
+1735,1051,tissue_classification/cancer/TCGA-B0-5691_24228_20422_cancer_11171.png,0,1,0,0
+1736,2008,tissue_classification/cancer/TCGA-B8-4154_21034_25373_cancer_12037.png,0,1,0,0
+1737,1110,tissue_classification/cancer/TCGA-B0-5691_25428_21322_cancer_11230.png,0,1,0,0
+1738,1963,tissue_classification/cancer/TCGA-B8-4154_20434_22973_cancer_11991.png,0,1,0,0
+1739,4676,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 35.png,0,0,0,1
+1740,4134,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 582.png,0,0,1,0
+1741,713,tissue_classification/cancer/TCGA-B0-4713_38266_24733_cancer_10646.png,0,1,0,0
+1742,3518,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 87.png,0,0,1,0
+1743,3731,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 179.png,0,0,1,0
+1744,687,tissue_classification/cancer/TCGA-B0-4713_37966_22333_cancer_10619.png,0,1,0,0
+1745,3625,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 104.png,0,0,1,0
+1746,4699,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 58.png,0,0,0,1
+1747,2461,tissue_classification/cancer/TCGA-CJ-4641_33381_33624_cancer_11683.png,0,1,0,0
+1748,4298,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 748.png,0,0,1,0
+1749,1778,tissue_classification/cancer/TCGA-B4-5843_27216_32272_cancer_10035.png,0,1,0,0
+1750,557,tissue_classification/cancer/TCGA-AK-3430_11524_39082_cancer_12226.png,0,1,0,0
+1751,3993,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 441.png,0,0,1,0
+1752,1420,tissue_classification/cancer/TCGA-B0-5691_91707_48177_cancer_11539.png,0,1,0,0
+1753,877,tissue_classification/cancer/TCGA-B0-5399_97058_49574_cancer_10774.png,0,1,0,0
+1754,5020,tissue_classification/stroma/TCGA-BP-5196_31419_37092_cancer_10694.png,0,0,0,1
+1755,2552,tissue_classification/cancer/TCGA-CJ-4641_36981_32124_cancer_11774.png,0,1,0,0
+1756,627,tissue_classification/cancer/TCGA-B0-4713_37066_21433_cancer_10559.png,0,1,0,0
+1757,4485,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 157.png,0,0,1,0
+1758,5330,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 163.png,0,0,0,1
+1759,2503,tissue_classification/cancer/TCGA-CJ-4641_35181_31824_cancer_11725.png,0,1,0,0
+1760,2818,tissue_classification/normal/TCGA-CJ-4918_28956_31754_normal_2149.png,0,0,1,0
+1761,1758,tissue_classification/cancer/TCGA-B4-5843_26916_30772_cancer_10015.png,0,1,0,0
+1762,2561,tissue_classification/cancer/TCGA-CJ-4641_37281_32424_cancer_11783.png,0,1,0,0
+1763,1636,tissue_classification/cancer/TCGA-B0-5698_143163_25723_cancer_7551.png,0,1,0,0
+1764,4309,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 759.png,0,0,1,0
+1765,4912,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 33.png,0,0,0,1
+1766,2659,tissue_classification/cancer/TCGA-CZ-5453_80364_34721_cancer_10352.png,0,1,0,0
+1767,5122,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 103.png,0,0,0,1
+1768,387,tissue_classification/cancer/TCGA-6D-AA2E_37213_24846_cancer_10324.png,0,1,0,0
+1769,4888,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 99.png,0,0,0,1
+1770,990,tissue_classification/cancer/TCGA-B0-5399_98858_49274_cancer_10887.png,0,1,0,0
+1771,2970,tissue_classification/normal/TCGA-T7-A92I_42148_80145_normal_6222.png,0,0,1,0
+1772,1372,tissue_classification/cancer/TCGA-B0-5691_90807_47277_cancer_11491.png,0,1,0,0
+1773,456,tissue_classification/cancer/TCGA-A3-3331_22607_31078_cancer_10751.png,0,1,0,0
+1774,2744,tissue_classification/cancer/TCGA-DV-A4W0_53790_19197_cancer_11830.png,0,1,0,0
+1775,2611,tissue_classification/cancer/TCGA-CZ-4857_36468_26116_cancer_11859.png,0,1,0,0
+1776,2976,tissue_classification/normal/TCGA-T7-A92I_42448_78045_normal_6228.png,0,0,1,0
+1777,4607,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 56.png,0,0,0,1
+1778,1552,tissue_classification/cancer/TCGA-B0-5698_141963_23323_cancer_7467.png,0,1,0,0
+1779,3504,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 73.png,0,0,1,0
+1780,889,tissue_classification/cancer/TCGA-B0-5399_97358_47474_cancer_10786.png,0,1,0,0
+1781,3703,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 151.png,0,0,1,0
+1782,3959,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 407.png,0,0,1,0
+1783,1389,tissue_classification/cancer/TCGA-B0-5691_91107_47877_cancer_11508.png,0,1,0,0
+1784,2768,tissue_classification/cancer/TCGA-EU-5904_51748_68576_cancer_10415.png,0,1,0,0
+1785,581,tissue_classification/cancer/TCGA-AK-3450_42136_21827_cancer_10228.png,0,1,0,0
+1786,3119,tissue_classification/normal/TCGA-T7-A92I_46348_78345_normal_6394.png,0,0,1,0
+1787,4130,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 578.png,0,0,1,0
+1788,1631,tissue_classification/cancer/TCGA-B0-5698_143163_24223_cancer_7546.png,0,1,0,0
+1789,1094,tissue_classification/cancer/TCGA-B0-5691_25128_20722_cancer_11214.png,0,1,0,0
+1790,2880,tissue_classification/normal/TCGA-CZ-5460_54550_41087_normal_2436.png,0,0,1,0
+1791,4744,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 46.png,0,0,0,1
+1792,1133,tissue_classification/cancer/TCGA-B0-5691_26028_19822_cancer_11253.png,0,1,0,0
+1793,3340,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 92.png,0,0,1,0
+1794,868,tissue_classification/cancer/TCGA-B0-5399_97058_46874_cancer_10765.png,0,1,0,0
+1795,4509,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 181.png,0,0,1,0
+1796,1362,tissue_classification/cancer/TCGA-B0-5691_90507_48777_cancer_11481.png,0,1,0,0
+1797,1435,tissue_classification/cancer/TCGA-B0-5691_92007_48477_cancer_11554.png,0,1,0,0
+1798,2449,tissue_classification/cancer/TCGA-CJ-4641_33081_32424_cancer_11671.png,0,1,0,0
+1799,1897,tissue_classification/cancer/TCGA-B8-4154_19234_23573_cancer_11918.png,0,1,0,0
+1800,3482,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 51.png,0,0,1,0
+1801,451,tissue_classification/cancer/TCGA-A3-3331_22307_30478_cancer_10746.png,0,1,0,0
+1802,1336,tissue_classification/cancer/TCGA-B0-5691_89907_49977_cancer_11455.png,0,1,0,0
+1803,4446,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 118.png,0,0,1,0
+1804,1841,tissue_classification/cancer/TCGA-B4-5843_28416_33472_cancer_10098.png,0,1,0,0
+1805,2702,tissue_classification/cancer/TCGA-DV-5566_60656_34632_cancer_10500.png,0,1,0,0
+1806,4442,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 114.png,0,0,1,0
+1807,2020,tissue_classification/cancer/TCGA-B8-4154_21334_23273_cancer_12049.png,0,1,0,0
+1808,3951,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 399.png,0,0,1,0
+1809,2946,tissue_classification/normal/TCGA-G6-A8L8_39470_14527_normal_4944.png,0,0,1,0
+1810,3302,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 54.png,0,0,1,0
+1811,3155,tissue_classification/normal/TCGA-T7-A92I_46948_81345_normal_6430.png,0,0,1,0
+1812,1269,tissue_classification/cancer/TCGA-B0-5691_88707_47877_cancer_11388.png,0,1,0,0
+1813,3363,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 25.png,0,0,1,0
+1814,2902,tissue_classification/normal/TCGA-EU-5907_10155_55197_normal_1838.png,0,0,1,0
+1815,5017,tissue_classification/stroma/TCGA-BP-4977_119679_57822_cancer_4921.png,0,0,0,1
+1816,1489,tissue_classification/cancer/TCGA-B0-5691_93207_47577_cancer_11608.png,0,1,0,0
+1817,2730,tissue_classification/cancer/TCGA-DV-5566_61556_32532_cancer_10530.png,0,1,0,0
+1818,838,tissue_classification/cancer/TCGA-B0-5399_26182_41092_cancer_10983.png,0,1,0,0
+1819,142,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 111.png,1,0,0,0
+1820,1147,tissue_classification/cancer/TCGA-B0-5691_26328_19822_cancer_11267.png,0,1,0,0
+1821,3701,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 149.png,0,0,1,0
+1822,629,tissue_classification/cancer/TCGA-B0-4713_37066_22033_cancer_10561.png,0,1,0,0
+1823,5460,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 130.png,0,0,0,1
+1824,3612,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 174.png,0,0,1,0
+1825,5473,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 143.png,0,0,0,1
+1826,5434,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 104.png,0,0,0,1
+1827,1124,tissue_classification/cancer/TCGA-B0-5691_25728_21322_cancer_11244.png,0,1,0,0
+1828,217,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 101.png,0,1,0,0
+1829,3396,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 58.png,0,0,1,0
+1830,4796,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 98.png,0,0,0,1
+1831,4506,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 178.png,0,0,1,0
+1832,1804,tissue_classification/cancer/TCGA-B4-5843_27816_31072_cancer_10061.png,0,1,0,0
+1833,2939,tissue_classification/normal/TCGA-EU-5907_10755_55497_normal_1875.png,0,0,1,0
+1834,2937,tissue_classification/normal/TCGA-EU-5907_10755_54897_normal_1873.png,0,0,1,0
+1835,3463,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 32.png,0,0,1,0
+1836,3579,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 141.png,0,0,1,0
+1837,1313,tissue_classification/cancer/TCGA-B0-5691_89607_47577_cancer_11432.png,0,1,0,0
+1838,4808,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 19.png,0,0,0,1
+1839,1177,tissue_classification/cancer/TCGA-B0-5691_26928_20422_cancer_11297.png,0,1,0,0
+1840,3888,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 336.png,0,0,1,0
+1841,4127,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 575.png,0,0,1,0
+1842,2086,tissue_classification/cancer/TCGA-B8-5546_103999_27694_cancer_2480.png,0,1,0,0
+1843,3656,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 104.png,0,0,1,0
+1844,3104,tissue_classification/normal/TCGA-T7-A92I_45748_80445_normal_6375.png,0,0,1,0
+1845,988,tissue_classification/cancer/TCGA-B0-5399_98858_48674_cancer_10885.png,0,1,0,0
+1846,2631,tissue_classification/cancer/TCGA-CZ-4861_12555_12226_cancer_10147.png,0,1,0,0
+1847,2233,tissue_classification/cancer/TCGA-B8-A54K_168358_31004_cancer_5806.png,0,1,0,0
+1848,3245,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 87.png,0,0,1,0
+1849,2621,tissue_classification/cancer/TCGA-CZ-4857_37368_25216_cancer_11873.png,0,1,0,0
+1850,5362,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 195.png,0,0,0,1
+1851,2640,tissue_classification/cancer/TCGA-CZ-4861_14055_12226_cancer_10167.png,0,1,0,0
+1852,505,tissue_classification/cancer/TCGA-AK-3430_10024_40282_cancer_12174.png,0,1,0,0
+1853,4781,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 83.png,0,0,0,1
+1854,1816,tissue_classification/cancer/TCGA-B4-5843_28116_30472_cancer_10073.png,0,1,0,0
+1855,3358,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 20.png,0,0,1,0
+1856,2091,tissue_classification/cancer/TCGA-B8-5546_103999_29194_cancer_2485.png,0,1,0,0
+1857,3051,tissue_classification/normal/TCGA-T7-A92I_43948_81345_normal_6304.png,0,0,1,0
+1858,564,tissue_classification/cancer/TCGA-AK-3430_19522_44249_cancer_12069.png,0,1,0,0
+1859,3040,tissue_classification/normal/TCGA-T7-A92I_43948_77745_normal_6292.png,0,0,1,0
+1860,5120,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 101.png,0,0,0,1
+1861,1153,tissue_classification/cancer/TCGA-B0-5691_26628_17422_cancer_11273.png,0,1,0,0
+1862,5384,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 217.png,0,0,0,1
+1863,3430,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 92.png,0,0,1,0
+1864,2597,tissue_classification/cancer/TCGA-CJ-4641_38481_33924_cancer_11820.png,0,1,0,0
+1865,670,tissue_classification/cancer/TCGA-B0-4713_37666_22933_cancer_10602.png,0,1,0,0
+1866,3267,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 19.png,0,0,1,0
+1867,1308,tissue_classification/cancer/TCGA-B0-5691_89307_50577_cancer_11427.png,0,1,0,0
+1868,1323,tissue_classification/cancer/TCGA-B0-5691_89607_50577_cancer_11442.png,0,1,0,0
+1869,3522,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 91.png,0,0,1,0
+1870,3937,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 385.png,0,0,1,0
+1871,4209,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 657.png,0,0,1,0
+1872,4594,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 43.png,0,0,0,1
+1873,4939,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 60.png,0,0,0,1
+1874,3128,tissue_classification/normal/TCGA-T7-A92I_46348_81045_normal_6403.png,0,0,1,0
+1875,890,tissue_classification/cancer/TCGA-B0-5399_97358_47774_cancer_10787.png,0,1,0,0
+1876,577,tissue_classification/cancer/TCGA-AK-3450_41836_22127_cancer_10224.png,0,1,0,0
+1877,4059,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 507.png,0,0,1,0
+1878,1661,tissue_classification/cancer/TCGA-B0-5698_143463_27523_cancer_7576.png,0,1,0,0
+1879,926,tissue_classification/cancer/TCGA-B0-5399_97958_47174_cancer_10823.png,0,1,0,0
+1880,993,tissue_classification/cancer/TCGA-B0-5399_98858_50174_cancer_10890.png,0,1,0,0
+1881,2866,tissue_classification/normal/TCGA-CJ-6027_12523_52506_normal_6194.png,0,0,1,0
+1882,1686,tissue_classification/cancer/TCGA-B0-5698_144063_23623_cancer_7601.png,0,1,0,0
+1883,4528,tissue_classification/stroma/TCGA-T7-A92I_61092_109133_other_2878.png,0,0,0,1
+1884,3028,tissue_classification/normal/TCGA-T7-A92I_43648_78045_normal_6280.png,0,0,1,0
+1885,4875,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 86.png,0,0,0,1
+1886,2237,tissue_classification/cancer/TCGA-B8-A54K_168358_32204_cancer_5810.png,0,1,0,0
+1887,2346,tissue_classification/cancer/TCGA-BP-4343_50033_29605_cancer_10443.png,0,1,0,0
+1888,4199,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 647.png,0,0,1,0
+1889,5562,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 232.png,0,0,0,1
+1890,4433,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 105.png,0,0,1,0
+1891,2572,tissue_classification/cancer/TCGA-CJ-4641_37581_33324_cancer_11794.png,0,1,0,0
+1892,3086,tissue_classification/normal/TCGA-T7-A92I_45448_78945_normal_6357.png,0,0,1,0
+1893,2318,tissue_classification/cancer/TCGA-BP-4160_22412_50069_cancer_12297.png,0,1,0,0
+1894,3500,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 69.png,0,0,1,0
+1895,3064,tissue_classification/normal/TCGA-T7-A92I_44248_81345_normal_6317.png,0,0,1,0
+1896,1935,tissue_classification/cancer/TCGA-B8-4154_19834_25073_cancer_11960.png,0,1,0,0
+1897,3884,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 332.png,0,0,1,0
+1898,4629,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 78.png,0,0,0,1
+1899,4324,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 774.png,0,0,1,0
+1900,504,tissue_classification/cancer/TCGA-AK-3430_10024_39982_cancer_12173.png,0,1,0,0
+1901,648,tissue_classification/cancer/TCGA-B0-4713_37366_22033_cancer_10580.png,0,1,0,0
+1902,1291,tissue_classification/cancer/TCGA-B0-5691_89007_49977_cancer_11410.png,0,1,0,0
+1903,3457,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 26.png,0,0,1,0
+1904,5216,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 146.png,0,0,0,1
+1905,4663,tissue_classification/stroma/FIMM6_41_ML1412160.mrxs_StromaTile 22.png,0,0,0,1
+1906,5161,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 142.png,0,0,0,1
+1907,2430,tissue_classification/cancer/TCGA-BP-5007_123979_23730_cancer_9434.png,0,1,0,0
+1908,915,tissue_classification/cancer/TCGA-B0-5399_97658_49574_cancer_10812.png,0,1,0,0
+1909,4137,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 585.png,0,0,1,0
+1910,2672,tissue_classification/cancer/TCGA-CZ-5469_102227_56641_cancer_8046.png,0,1,0,0
+1911,2139,tissue_classification/cancer/TCGA-B8-5546_105799_29194_cancer_2533.png,0,1,0,0
+1912,1187,tissue_classification/cancer/TCGA-B0-5691_27228_19222_cancer_11307.png,0,1,0,0
+1913,3626,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 105.png,0,0,1,0
+1914,4615,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 64.png,0,0,0,1
+1915,2428,tissue_classification/cancer/TCGA-BP-5004_68423_31242_cancer_12068.png,0,1,0,0
+1916,57,tissue_classification/blood/TCGA-B0-4701_18444_31150_cancer_6525.png,1,0,0,0
+1917,1852,tissue_classification/cancer/TCGA-B4-5843_28716_32272_cancer_10109.png,0,1,0,0
+1918,604,tissue_classification/cancer/TCGA-B0-4706_20477_14154_cancer_10459.png,0,1,0,0
+1919,3413,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 75.png,0,0,1,0
+1920,105,tissue_classification/blood/TCGA-CZ-4862_14102_33945_cancer_5750.png,1,0,0,0
+1921,2788,tissue_classification/normal/TCGA-CJ-4918_28356_31154_normal_2119.png,0,0,1,0
+1922,5060,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 41.png,0,0,0,1
+1923,2425,tissue_classification/cancer/TCGA-BP-4977_120279_57822_cancer_4927.png,0,1,0,0
+1924,3494,tissue_classification/normal/FIMM6_94_ML1412213.mrxs_NormalTile 63.png,0,0,1,0
+1925,3724,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 172.png,0,0,1,0
+1926,858,tissue_classification/cancer/TCGA-B0-5399_26782_41092_cancer_11003.png,0,1,0,0
+1927,2126,tissue_classification/cancer/TCGA-B8-5546_105499_27694_cancer_2520.png,0,1,0,0
+1928,1529,tissue_classification/cancer/TCGA-B0-5691_93807_50577_cancer_11648.png,0,1,0,0
+1929,3885,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 333.png,0,0,1,0
+1930,2246,tissue_classification/cancer/TCGA-B8-A54K_168658_31004_cancer_5819.png,0,1,0,0
+1931,2455,tissue_classification/cancer/TCGA-CJ-4641_33381_31824_cancer_11677.png,0,1,0,0
+1932,2786,tissue_classification/normal/TCGA-CJ-4918_28056_36254_normal_2117.png,0,0,1,0
+1933,3241,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 83.png,0,0,1,0
+1934,1904,tissue_classification/cancer/TCGA-B8-4154_19234_25673_cancer_11925.png,0,1,0,0
+1935,1725,tissue_classification/cancer/TCGA-B0-5698_144663_23923_cancer_7640.png,0,1,0,0
+1936,5436,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 106.png,0,0,0,1
+1937,2523,tissue_classification/cancer/TCGA-CJ-4641_35781_33024_cancer_11745.png,0,1,0,0
+1938,2030,tissue_classification/cancer/TCGA-B8-4154_21334_26273_cancer_12059.png,0,1,0,0
+1939,4620,tissue_classification/stroma/FIMM6_14_ML1412133.mrxs_StromaTile 69.png,0,0,0,1
+1940,137,tissue_classification/blood/FIMM6_76_ML1412195.mrxs_BloodTile 105.png,1,0,0,0
+1941,5220,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 150.png,0,0,0,1
+1942,5180,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 110.png,0,0,0,1
+1943,2562,tissue_classification/cancer/TCGA-CJ-4641_37281_32724_cancer_11784.png,0,1,0,0
+1944,4713,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 15.png,0,0,0,1
+1945,233,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 117.png,0,1,0,0
+1946,815,tissue_classification/cancer/TCGA-B0-5399_25582_40192_cancer_10960.png,0,1,0,0
+1947,2229,tissue_classification/cancer/TCGA-B8-A54K_168358_29804_cancer_5802.png,0,1,0,0
+1948,1879,tissue_classification/cancer/TCGA-B8-4154_18934_23273_cancer_11900.png,0,1,0,0
+1949,2988,tissue_classification/normal/TCGA-T7-A92I_42748_77745_normal_6240.png,0,0,1,0
+1950,4759,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 61.png,0,0,0,1
+1951,4838,tissue_classification/stroma/FIMM6_76_ML1412195.mrxs_StromaTile 49.png,0,0,0,1
+1952,2150,tissue_classification/cancer/TCGA-B8-5546_106399_27694_cancer_2544.png,0,1,0,0
+1953,2690,tissue_classification/cancer/TCGA-DV-5566_60356_33732_cancer_10487.png,0,1,0,0
+1954,2973,tissue_classification/normal/TCGA-T7-A92I_42148_81045_normal_6225.png,0,0,1,0
+1955,3732,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 180.png,0,0,1,0
+1956,409,tissue_classification/cancer/TCGA-A3-3331_13359_27966_cancer_10704.png,0,1,0,0
+1957,1464,tissue_classification/cancer/TCGA-B0-5691_92607_49077_cancer_11583.png,0,1,0,0
+1958,1751,tissue_classification/cancer/TCGA-B4-5843_26616_33172_cancer_10008.png,0,1,0,0
+1959,2283,tissue_classification/cancer/TCGA-B8-A54K_169558_30704_cancer_5857.png,0,1,0,0
+1960,1674,tissue_classification/cancer/TCGA-B0-5698_143763_25723_cancer_7589.png,0,1,0,0
+1961,225,tissue_classification/cancer/FIMM6_62_ML1412181.mrxs_TumorTile 109.png,0,1,0,0
+1962,381,tissue_classification/cancer/TCGA-6D-AA2E_36913_25146_cancer_10318.png,0,1,0,0
+1963,2790,tissue_classification/normal/TCGA-CJ-4918_28356_32354_normal_2121.png,0,0,1,0
+1964,2065,tissue_classification/cancer/TCGA-B8-5546_103099_28594_cancer_2459.png,0,1,0,0
+1965,439,tissue_classification/cancer/TCGA-A3-3331_14859_27966_cancer_10734.png,0,1,0,0
+1966,1630,tissue_classification/cancer/TCGA-B0-5698_143163_23923_cancer_7545.png,0,1,0,0
+1967,1009,tissue_classification/cancer/TCGA-B0-5399_99158_49274_cancer_10906.png,0,1,0,0
+1968,1527,tissue_classification/cancer/TCGA-B0-5691_93807_49977_cancer_11646.png,0,1,0,0
+1969,3190,tissue_classification/normal/FIMM6_14_ML1412133.mrxs_NormalTile 32.png,0,0,1,0
+1970,3960,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 408.png,0,0,1,0
+1971,701,tissue_classification/cancer/TCGA-B0-4713_38266_21133_cancer_10634.png,0,1,0,0
+1972,970,tissue_classification/cancer/TCGA-B0-5399_98558_48974_cancer_10867.png,0,1,0,0
+1973,5512,tissue_classification/stroma/FIMM6_133_ML1412252.mrxs_StromaTile 182.png,0,0,0,1
+1974,1789,tissue_classification/cancer/TCGA-B4-5843_27516_31072_cancer_10046.png,0,1,0,0
+1975,2175,tissue_classification/cancer/TCGA-B8-5546_107299_27994_cancer_2569.png,0,1,0,0
+1976,4028,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 476.png,0,0,1,0
+1977,2125,tissue_classification/cancer/TCGA-B8-5546_105199_29794_cancer_2519.png,0,1,0,0
+1978,3365,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 27.png,0,0,1,0
+1979,2397,tissue_classification/cancer/TCGA-BP-4759_34832_57485_cancer_11096.png,0,1,0,0
+1980,3338,tissue_classification/normal/FIMM6_41_ML1412160.mrxs_NormalTile 90.png,0,0,1,0
+1981,3950,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 398.png,0,0,1,0
+1982,5021,tissue_classification/stroma/TCGA-CJ-4887_61882_21415_cancer_10691.png,0,0,0,1
+1983,106,tissue_classification/blood/TCGA-DV-A4W0_81571_56230_empty_10193.png,1,0,0,0
+1984,1794,tissue_classification/cancer/TCGA-B4-5843_27516_32572_cancer_10051.png,0,1,0,0
+1985,1954,tissue_classification/cancer/TCGA-B8-4154_20134_25973_cancer_11982.png,0,1,0,0
+1986,5229,tissue_classification/stroma/FIMM6_62_ML1412181.mrxs_StromaTile 159.png,0,0,0,1
+1987,1762,tissue_classification/cancer/TCGA-B4-5843_26916_31972_cancer_10019.png,0,1,0,0
+1988,123,tissue_classification/blood/FIMM6_62_ML1412181.mrxs_BloodTile 123.png,1,0,0,0
+1989,4964,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 85.png,0,0,0,1
+1990,4942,tissue_classification/stroma/FIMM6_94_ML1412213.mrxs_StromaTile 63.png,0,0,0,1
+1991,1732,tissue_classification/cancer/TCGA-B0-5698_144663_26023_cancer_7647.png,0,1,0,0
+1992,24,tissue_classification/blood/FIMM6_94_ML1412213.mrxs_BloodTile 20.png,1,0,0,0
+1993,4073,tissue_classification/normal/FIMM6_62_ML1412181.mrxs_NormalTile 521.png,0,0,1,0
+1994,2543,tissue_classification/cancer/TCGA-CJ-4641_36681_31824_cancer_11765.png,0,1,0,0
+1995,1876,tissue_classification/cancer/TCGA-B8-4154_18634_27773_cancer_11896.png,0,1,0,0
+1996,1942,tissue_classification/cancer/TCGA-B8-4154_19834_27173_cancer_11967.png,0,1,0,0
+1997,2968,tissue_classification/normal/TCGA-T7-A92I_42148_79545_normal_6220.png,0,0,1,0
+1998,1888,tissue_classification/cancer/TCGA-B8-4154_18934_25973_cancer_11909.png,0,1,0,0
+1999,813,tissue_classification/cancer/TCGA-B0-5399_25582_39592_cancer_10958.png,0,1,0,0
