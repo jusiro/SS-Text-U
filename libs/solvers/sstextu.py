@@ -58,7 +58,7 @@ def sstext_u_solver(features_a, labels_a, model, features_u, classes, num_iters_
         new_mu = textual_prototypes
         model.prototypes.data = new_mu.to(device)
 
-        # In case of not using BMM iterations, output the SS-Text+ solver solution
+        # In case of not using BCM iterations, output the SS-Text+ solver solution
         if num_iters_mm==0:
             new_mu = vision_mu_a * (1 / features_a.shape[0]) * (1 / tau) * (1 / (2*lambda_text)) + \
                      textual_prototypes
@@ -68,10 +68,10 @@ def sstext_u_solver(features_a, labels_a, model, features_u, classes, num_iters_
             new_mu = textual_prototypes
             model.prototypes.data = new_mu.to(device)
 
-        # Run BMM optimizer.
+        # Run BCM optimizer.
         for i in range(num_iters_mm):
 
-            # 1.Expectation: compute pseudo-labels on unlabeled data trough optimal transport.
+            # 1.Update wrt z-block.
 
             # Get logits.
             scores_u = model(features_u, act=False)
@@ -79,7 +79,7 @@ def sstext_u_solver(features_a, labels_a, model, features_u, classes, num_iters_
             # Compute optimal transport to get class assignments.
             codes = distributed_sinkhorn(scores_u, num_iters=num_iters_ot, r=label_dist)
 
-            # 2. Maximization: adjust weights.
+            # 2. Update wrt W-block.
 
             # Compute unlabeled prototypes
             vision_mu_u = torch.einsum('ij,ik->jk', codes, features_u)
