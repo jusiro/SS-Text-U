@@ -4,8 +4,7 @@
 <img src="./documents/media/overview.svg" width = "550" alt="" align=center /> <br/>
 
 [*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*]().<br/>
-[******](******), [******](******),
-[******](******), [******](******), ⋅ ******.
+[Julio Silva-Rodríguez](https://scholar.google.com/citations?user=1UMYgHMAAAAJ), [Ender Konukoglu](https://scholar.google.com/citations?user=OeEMrhQAAAAJ) ⋅ Computer Vision Lab, ETH Zurich.
 <br/>
 
 
@@ -20,7 +19,7 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 ```
 
 ```
-git clone https://github.com/******/SS-Text-U.git
+git clone https://github.com/jusiro/SS-Text-U.git
 cd SS-Text-U
 pip install -r requirements.txt
 ```
@@ -50,7 +49,7 @@ If you find this repository useful, please consider citing the following sources
 ```
 @inproceedings{sstextu,
     title={Semi-Supervised Few-Shot Adaptation of Vision-Language Models},
-    author={******},
+    author={Julio Silva-Rodríguez and Ender Konukoglu},
     booktitle={arXiv preprint arXiv:xxxx.xxxxx},
     year={2026}
 }
