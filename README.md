@@ -3,7 +3,7 @@
 
 <img src="./documents/media/overview.svg" width = "550" alt="" align=center /> <br/>
 
-[*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*]().<br/>
+[*Semi-Supervised Few-Shot Adaptation of Vision-Language Models*](https://arxiv.org/abs/2603.02959).<br/>
 [Julio Silva-Rodríguez](https://scholar.google.com/citations?user=1UMYgHMAAAAJ), [Ender Konukoglu](https://scholar.google.com/citations?user=OeEMrhQAAAAJ) ⋅ Computer Vision Lab, ETH Zurich.
 <br/>
 
@@ -50,7 +50,7 @@ If you find this repository useful, please consider citing the following sources
 @inproceedings{sstextu,
     title={Semi-Supervised Few-Shot Adaptation of Vision-Language Models},
     author={Julio Silva-Rodríguez and Ender Konukoglu},
-    booktitle={arXiv preprint arXiv:xxxx.xxxxx},
+    booktitle={arXiv preprint arXiv:2603.02959},
     year={2026}
 }
 ```
